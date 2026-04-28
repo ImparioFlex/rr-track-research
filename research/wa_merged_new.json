@@ -1,0 +1,2401 @@
+[
+  {
+    "name": "Rachel Anderson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14926164",
+    "fk": "",
+    "sc": "9:28.72",
+    "tenk": ""
+  },
+  {
+    "name": "Alex Teubel",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14508849",
+    "fk": "",
+    "sc": "9:32.81",
+    "tenk": ""
+  },
+  {
+    "name": "Shelby Jensen",
+    "wa_url": "https://worldathletics.org/athletes/united-states/shelby-jensen-15026812",
+    "fk": "",
+    "sc": "9:36.61",
+    "tenk": ""
+  },
+  {
+    "name": "Alissa Niggemann",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14609858",
+    "fk": "",
+    "sc": "9:39.96",
+    "tenk": ""
+  },
+  {
+    "name": "Katherine Thronson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14780924",
+    "fk": "15:44.56",
+    "sc": "9:40.49",
+    "tenk": ""
+  },
+  {
+    "name": "Judi Jones",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14779702",
+    "fk": "",
+    "sc": "9:41.00",
+    "tenk": ""
+  },
+  {
+    "name": "Madeline Strandemo",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14535542",
+    "fk": "",
+    "sc": "9:42.08",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Paupore",
+    "wa_url": "https://worldathletics.org/athletes/united-states/emily-paupore-14968140",
+    "fk": "",
+    "sc": "9:43.24",
+    "tenk": ""
+  },
+  {
+    "name": "Kayla Windemuller",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14756952",
+    "fk": "",
+    "sc": "9:47.36",
+    "tenk": ""
+  },
+  {
+    "name": "Sydney Masciarelli",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14895530",
+    "fk": "",
+    "sc": "9:48.12",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Cole",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14907098",
+    "fk": "",
+    "sc": "9:48.20",
+    "tenk": ""
+  },
+  {
+    "name": "Madison Neuner",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14802029",
+    "fk": "",
+    "sc": "9:48.82",
+    "tenk": ""
+  },
+  {
+    "name": "Layla Roebke",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14906280",
+    "fk": "",
+    "sc": "9:49.08",
+    "tenk": ""
+  },
+  {
+    "name": "Sophia McDonnell",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14800908",
+    "fk": "",
+    "sc": "9:50.18",
+    "tenk": ""
+  },
+  {
+    "name": "Dana Klein",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14529785",
+    "fk": "",
+    "sc": "9:50.54",
+    "tenk": "32:42.36"
+  },
+  {
+    "name": "Victoria Patterson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14800363",
+    "fk": "",
+    "sc": "9:51.02",
+    "tenk": ""
+  },
+  {
+    "name": "Perri Bockrath",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14848024",
+    "fk": "",
+    "sc": "9:52.00",
+    "tenk": ""
+  },
+  {
+    "name": "Victoria Gerlach",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14463453",
+    "fk": "",
+    "sc": "9:52.12",
+    "tenk": ""
+  },
+  {
+    "name": "Zoie Dundon",
+    "wa_url": "https://worldathletics.org/athletes/united-states/zoie-dundon-15051647",
+    "fk": "",
+    "sc": "9:52.46",
+    "tenk": ""
+  },
+  {
+    "name": "Katelyn Mitchem",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14877605",
+    "fk": "",
+    "sc": "9:52.49",
+    "tenk": ""
+  },
+  {
+    "name": "Emma Tavella",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14839136",
+    "fk": "",
+    "sc": "9:52.68",
+    "tenk": ""
+  },
+  {
+    "name": "Lydia Olivere",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14676247",
+    "fk": "",
+    "sc": "9:52.69",
+    "tenk": ""
+  },
+  {
+    "name": "Kennady Fontenot",
+    "wa_url": "https://worldathletics.org/athletes/united-states/kennady-fontenot-15066950",
+    "fk": "",
+    "sc": "9:52.75",
+    "tenk": ""
+  },
+  {
+    "name": "Mia Nahom",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14689180",
+    "fk": "",
+    "sc": "9:52.81",
+    "tenk": ""
+  },
+  {
+    "name": "Alexia Goff",
+    "wa_url": "https://worldathletics.org/athletes/united-states/alexia-goff-15309787",
+    "fk": "",
+    "sc": "9:53.30",
+    "tenk": ""
+  },
+  {
+    "name": "Madaline Ullom",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14798980",
+    "fk": "",
+    "sc": "9:54.42",
+    "tenk": ""
+  },
+  {
+    "name": "Raygan Dimond",
+    "wa_url": "https://worldathletics.org/athletes/united-states/raygan-dimond-15269836",
+    "fk": "",
+    "sc": "9:55.03",
+    "tenk": "",
+    "maiden": "n\u00e9e Peterson",
+    "_review": "may be same person as Raygan Peterson 10:08.12 (different WA id)"
+  },
+  {
+    "name": "Isabell Schmitz",
+    "wa_url": "https://worldathletics.org/athletes/united-states/isabell-schmitz-14993587",
+    "fk": "",
+    "sc": "9:55.19",
+    "tenk": ""
+  },
+  {
+    "name": "Kayla Schiera",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14879554",
+    "fk": "",
+    "sc": "9:56.23",
+    "tenk": ""
+  },
+  {
+    "name": "Kate Putman",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14938459",
+    "fk": "",
+    "sc": "9:56.26",
+    "tenk": ""
+  },
+  {
+    "name": "Annie Boos",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14654762",
+    "fk": "",
+    "sc": "9:56.28",
+    "tenk": ""
+  },
+  {
+    "name": "Sasha Neglia",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14846238",
+    "fk": "",
+    "sc": "9:56.73",
+    "tenk": ""
+  },
+  {
+    "name": "Molly Malague",
+    "wa_url": "https://worldathletics.org/athletes/united-states/molly-malague-15080668",
+    "fk": "",
+    "sc": "9:56.92",
+    "tenk": ""
+  },
+  {
+    "name": "Caroline Austin",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14402144",
+    "fk": "",
+    "sc": "9:56.98",
+    "tenk": ""
+  },
+  {
+    "name": "Sadie Sargent",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14772632",
+    "fk": "15:34.18",
+    "sc": "9:57.11",
+    "tenk": ""
+  },
+  {
+    "name": "Meredith Rizzo",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14411236",
+    "fk": "",
+    "sc": "9:57.52",
+    "tenk": ""
+  },
+  {
+    "name": "Olivia Morganti",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14833440",
+    "fk": "",
+    "sc": "9:57.94",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Clute",
+    "wa_url": "https://worldathletics.org/athletes/united-states/katie-clute-15027528",
+    "fk": "",
+    "sc": "9:57.98",
+    "tenk": ""
+  },
+  {
+    "name": "Aziza Chigataeva",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14720899",
+    "fk": "",
+    "sc": "9:58.02",
+    "tenk": ""
+  },
+  {
+    "name": "Grace Gilbreth",
+    "wa_url": "https://worldathletics.org/athletes/united-states/grace-gilbreth-15012010",
+    "fk": "",
+    "sc": "9:58.84",
+    "tenk": ""
+  },
+  {
+    "name": "Sara Morefield",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sara-morefield-15021903",
+    "fk": "",
+    "sc": "10:00.34",
+    "tenk": ""
+  },
+  {
+    "name": "Harper McClain",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14913134",
+    "fk": "",
+    "sc": "10:00.59",
+    "tenk": ""
+  },
+  {
+    "name": "Gabrielle Orie",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14709397",
+    "fk": "",
+    "sc": "10:01.04",
+    "tenk": ""
+  },
+  {
+    "name": "Hayley Burns",
+    "wa_url": "https://worldathletics.org/athletes/united-states/hayley-burns-15039777",
+    "fk": "15:18.26",
+    "sc": "10:01.59",
+    "tenk": ""
+  },
+  {
+    "name": "Jessica Scheriff",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14475615",
+    "fk": "",
+    "sc": "10:01.78",
+    "tenk": ""
+  },
+  {
+    "name": "Malia Pivec",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14662754",
+    "fk": "",
+    "sc": "10:01.93",
+    "tenk": ""
+  },
+  {
+    "name": "Sara Van Dyke",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14475827",
+    "fk": "",
+    "sc": "10:02.61",
+    "tenk": ""
+  },
+  {
+    "name": "Abby Kendrick",
+    "wa_url": "https://worldathletics.org/athletes/united-states/abby-kendrick-15015836",
+    "fk": "",
+    "sc": "10:02.65",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Brown",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14847341",
+    "fk": "",
+    "sc": "10:02.71",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Jobes",
+    "wa_url": "https://worldathletics.org/athletes/united-states/emily-jobes-15062110",
+    "fk": "",
+    "sc": "10:03.05",
+    "tenk": ""
+  },
+  {
+    "name": "Elizabeth Dildine",
+    "wa_url": "https://worldathletics.org/athletes/united-states/elizabeth-dildine-15013611",
+    "fk": "",
+    "sc": "10:03.27",
+    "tenk": ""
+  },
+  {
+    "name": "Lindsey Adams",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14589899",
+    "fk": "",
+    "sc": "10:03.58",
+    "tenk": ""
+  },
+  {
+    "name": "Catherine Garrison",
+    "wa_url": "https://worldathletics.org/athletes/united-states/catherine-garrison-15027605",
+    "fk": "",
+    "sc": "10:03.94",
+    "tenk": ""
+  },
+  {
+    "name": "Ryley Fick",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14893397",
+    "fk": "",
+    "sc": "10:04.03",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Castelli",
+    "wa_url": "https://worldathletics.org/athletes/united-states/katie-castelli-15061500",
+    "fk": "",
+    "sc": "10:04.32",
+    "tenk": ""
+  },
+  {
+    "name": "Hayleigh Haid",
+    "wa_url": "https://worldathletics.org/athletes/united-states/hayleigh-haid-15064106",
+    "fk": "",
+    "sc": "10:04.34",
+    "tenk": ""
+  },
+  {
+    "name": "Madison Seiler",
+    "wa_url": "https://worldathletics.org/athletes/united-states/madison-seiler-15123622",
+    "fk": "",
+    "sc": "10:04.36",
+    "tenk": ""
+  },
+  {
+    "name": "Kiera Bothwell",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14636353",
+    "fk": "",
+    "sc": "10:04.39",
+    "tenk": ""
+  },
+  {
+    "name": "Sarah Trainor",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14773968",
+    "fk": "",
+    "sc": "10:04.84",
+    "tenk": ""
+  },
+  {
+    "name": "Alessandra Zaffina",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14938418",
+    "fk": "",
+    "sc": "10:05.69",
+    "tenk": ""
+  },
+  {
+    "name": "Azza Borovicka-Swanson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14937389",
+    "fk": "",
+    "sc": "10:05.90",
+    "tenk": ""
+  },
+  {
+    "name": "Hannah Stewart",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14927069",
+    "fk": "",
+    "sc": "10:06.01",
+    "tenk": ""
+  },
+  {
+    "name": "Evie Miller",
+    "wa_url": "https://worldathletics.org/athletes/united-states/evie-miller-15016499",
+    "fk": "",
+    "sc": "10:06.26",
+    "tenk": ""
+  },
+  {
+    "name": "Faith Demars",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14769424",
+    "fk": "15:44.98",
+    "sc": "10:06.27",
+    "tenk": ""
+  },
+  {
+    "name": "Chase Kappeler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14773429",
+    "fk": "",
+    "sc": "10:06.28",
+    "tenk": ""
+  },
+  {
+    "name": "Madey Dickson",
+    "wa_url": "https://worldathletics.org/athletes/united-states/madey-dickson-14971970",
+    "fk": "",
+    "sc": "10:06.31",
+    "tenk": ""
+  },
+  {
+    "name": "Katrina Schlenker",
+    "wa_url": "https://worldathletics.org/athletes/united-states/katrina-schlenker-14770837",
+    "fk": "",
+    "sc": "10:06.44",
+    "tenk": ""
+  },
+  {
+    "name": "Lilly Walters",
+    "wa_url": "https://worldathletics.org/athletes/united-states/lilly-walters-15026797",
+    "fk": "",
+    "sc": "10:06.71",
+    "tenk": ""
+  },
+  {
+    "name": "Corinne Fitzgerald",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14407248",
+    "fk": "",
+    "sc": "10:06.80",
+    "tenk": ""
+  },
+  {
+    "name": "Morgan Hykes",
+    "wa_url": "https://worldathletics.org/athletes/united-states/morgan-hykes-014971445",
+    "fk": "",
+    "sc": "10:06.83",
+    "tenk": ""
+  },
+  {
+    "name": "Grace Driskill",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14761375",
+    "fk": "",
+    "sc": "10:06.86",
+    "tenk": ""
+  },
+  {
+    "name": "Ashley Reeck",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ashley-reeck-15081131",
+    "fk": "",
+    "sc": "10:06.91",
+    "tenk": ""
+  },
+  {
+    "name": "Mackenzie Rogers",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mackenzie-rogers-15039752",
+    "fk": "",
+    "sc": "10:06.95",
+    "tenk": ""
+  },
+  {
+    "name": "Sophie Bull",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sophie-bull-15086901",
+    "fk": "",
+    "sc": "10:07.18",
+    "tenk": ""
+  },
+  {
+    "name": "Kelly Iocca",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14679380",
+    "fk": "",
+    "sc": "10:07.30",
+    "tenk": ""
+  },
+  {
+    "name": "Annasophia Keller",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14825397",
+    "fk": "",
+    "sc": "10:07.42",
+    "tenk": ""
+  },
+  {
+    "name": "Alexis Allen",
+    "wa_url": "https://worldathletics.org/athletes/united-states/alexis-allen-15022056",
+    "fk": "",
+    "sc": "10:07.71",
+    "tenk": ""
+  },
+  {
+    "name": "Barrett Justema",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14937390",
+    "fk": "15:43.86",
+    "sc": "10:07.78",
+    "tenk": ""
+  },
+  {
+    "name": "Mary Hennelly",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14679641",
+    "fk": "",
+    "sc": "10:08.34",
+    "tenk": ""
+  },
+  {
+    "name": "Marissa D'Atri",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14787757",
+    "fk": "",
+    "sc": "10:08.68",
+    "tenk": ""
+  },
+  {
+    "name": "Sierra Wall",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sierra-wall-15255542",
+    "fk": "",
+    "sc": "10:08.83",
+    "tenk": ""
+  },
+  {
+    "name": "Mia Kane",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14914784",
+    "fk": "",
+    "sc": "10:08.95",
+    "tenk": ""
+  },
+  {
+    "name": "Elia Ton-That",
+    "wa_url": "https://worldathletics.org/athletes/united-states/elia-ton-that-14988891",
+    "fk": "",
+    "sc": "10:09.06",
+    "tenk": ""
+  },
+  {
+    "name": "Hannah Brookover",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14648468",
+    "fk": "",
+    "sc": "10:09.14",
+    "tenk": ""
+  },
+  {
+    "name": "Isabelle Goldstein",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14848021",
+    "fk": "",
+    "sc": "10:09.41",
+    "tenk": ""
+  },
+  {
+    "name": "Rosie Mucharsky",
+    "wa_url": "https://worldathletics.org/athletes/united-states/rosie-mucharsky-15140226",
+    "fk": "",
+    "sc": "10:09.48",
+    "tenk": ""
+  },
+  {
+    "name": "Alyssa Hendrix",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14798032",
+    "fk": "",
+    "sc": "10:09.64",
+    "tenk": ""
+  },
+  {
+    "name": "Brooke Mullins",
+    "wa_url": "https://worldathletics.org/athletes/united-states/brooke-mullins-15026588",
+    "fk": "",
+    "sc": "10:09.84",
+    "tenk": ""
+  },
+  {
+    "name": "Tula Fawbush",
+    "wa_url": "https://worldathletics.org/athletes/united-states/tula-fawbush-15076809",
+    "fk": "",
+    "sc": "10:10.18",
+    "tenk": ""
+  },
+  {
+    "name": "Claire Fuhlhage",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14880883",
+    "fk": "",
+    "sc": "10:10.21",
+    "tenk": ""
+  },
+  {
+    "name": "Nelah Roberts",
+    "wa_url": "https://worldathletics.org/athletes/united-states/nelah-roberts-15035239",
+    "fk": "15:43.07",
+    "sc": "10:10.31",
+    "tenk": "32:47.57"
+  },
+  {
+    "name": "Sam Poglitsch",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sam-poglitsch-15011589",
+    "fk": "",
+    "sc": "10:10.52",
+    "tenk": ""
+  },
+  {
+    "name": "Allie Warner",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14772630",
+    "fk": "",
+    "sc": "10:10.67",
+    "tenk": ""
+  },
+  {
+    "name": "Haley Anderson",
+    "wa_url": "https://worldathletics.org/athletes/united-states/haley-anderson-15085049",
+    "fk": "",
+    "sc": "10:10.69",
+    "tenk": ""
+  },
+  {
+    "name": "Mercy Biwott",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mercy-biwott-15014439",
+    "fk": "",
+    "sc": "10:10.99",
+    "tenk": ""
+  },
+  {
+    "name": "Hannah Ielfield",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14848151",
+    "fk": "",
+    "sc": "10:11.31",
+    "tenk": ""
+  },
+  {
+    "name": "Madi Moffitt",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14789999",
+    "fk": "",
+    "sc": "10:11.32",
+    "tenk": ""
+  },
+  {
+    "name": "Mattison Plummer",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14894990",
+    "fk": "",
+    "sc": "10:11.55",
+    "tenk": ""
+  },
+  {
+    "name": "Madeleine King",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14667796",
+    "fk": "",
+    "sc": "10:11.78",
+    "tenk": ""
+  },
+  {
+    "name": "Hannah Miller",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14915871",
+    "fk": "",
+    "sc": "10:11.96",
+    "tenk": ""
+  },
+  {
+    "name": "Ila Davis",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ila-davis-14987460",
+    "fk": "",
+    "sc": "10:11.97",
+    "tenk": ""
+  },
+  {
+    "name": "Allison Beasley",
+    "wa_url": "https://worldathletics.org/athletes/united-states/allison-beasley-14988939",
+    "fk": "",
+    "sc": "10:12.21",
+    "tenk": ""
+  },
+  {
+    "name": "Madison Surber",
+    "wa_url": "https://worldathletics.org/athletes/united-states/madison-surber-14992395",
+    "fk": "",
+    "sc": "10:12.22",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Struthers",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14789869",
+    "fk": "",
+    "sc": "10:12.29",
+    "tenk": ""
+  },
+  {
+    "name": "Addie Meldrum",
+    "wa_url": "https://worldathletics.org/athletes/united-states/addie-meldrum-15201994",
+    "fk": "",
+    "sc": "10:12.44",
+    "tenk": ""
+  },
+  {
+    "name": "Helen Shearer",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14883741",
+    "fk": "",
+    "sc": "10:12.53",
+    "tenk": ""
+  },
+  {
+    "name": "Melissa George",
+    "wa_url": "https://worldathletics.org/athletes/united-states/melissa-george-15108669",
+    "fk": "",
+    "sc": "10:12.63",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Chaston",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14930226",
+    "fk": "",
+    "sc": "10:12.82",
+    "tenk": ""
+  },
+  {
+    "name": "Maria Mitchell",
+    "wa_url": "https://worldathletics.org/athletes/united-states/maria-mitchell-15013401",
+    "fk": "",
+    "sc": "10:12.92",
+    "tenk": ""
+  },
+  {
+    "name": "Alexa Leppelmeier",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14826125",
+    "fk": "",
+    "sc": "10:12.93",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Vitou",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14874710",
+    "fk": "",
+    "sc": "10:13.02",
+    "tenk": ""
+  },
+  {
+    "name": "Erin Jaskot",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14474209",
+    "fk": "",
+    "sc": "10:13.08",
+    "tenk": ""
+  },
+  {
+    "name": "Annie Miller",
+    "wa_url": "https://worldathletics.org/athletes/united-states/annie-miller-15077599",
+    "fk": "",
+    "sc": "10:13.12",
+    "tenk": ""
+  },
+  {
+    "name": "Elizabeth Coe",
+    "wa_url": "https://worldathletics.org/athletes/united-states/elizabeth-coe-15152198",
+    "fk": "",
+    "sc": "10:13.17",
+    "tenk": ""
+  },
+  {
+    "name": "Hayleigh Palotti",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14655076",
+    "fk": "",
+    "sc": "10:13.26",
+    "tenk": ""
+  },
+  {
+    "name": "Natalie Graber",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14923183",
+    "fk": "",
+    "sc": "10:13.41",
+    "tenk": ""
+  },
+  {
+    "name": "Bailey Wall",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14837369",
+    "fk": "",
+    "sc": "10:13.42",
+    "tenk": ""
+  },
+  {
+    "name": "Megan Johnson",
+    "wa_url": "https://worldathletics.org/athletes/united-states/megan-johnson-15015827",
+    "fk": "",
+    "sc": "10:13.46",
+    "tenk": ""
+  },
+  {
+    "name": "Hannah Pricco",
+    "wa_url": "https://worldathletics.org/athletes/united-states/hannah-pricco-15120702",
+    "fk": "",
+    "sc": "10:13.53",
+    "tenk": ""
+  },
+  {
+    "name": "Julia Abell",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14875246",
+    "fk": "",
+    "sc": "10:13.74",
+    "tenk": ""
+  },
+  {
+    "name": "Victoria Rodriguez",
+    "wa_url": "https://worldathletics.org/athletes/united-states/victoria-rodriguez-15148715",
+    "fk": "",
+    "sc": "10:13.77",
+    "tenk": ""
+  },
+  {
+    "name": "Anya Turner",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14808251",
+    "fk": "",
+    "sc": "10:13.78",
+    "tenk": ""
+  },
+  {
+    "name": "Amanda Montplaisir",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14878966",
+    "fk": "",
+    "sc": "10:14.05",
+    "tenk": ""
+  },
+  {
+    "name": "Abby Jensen",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14772629",
+    "fk": "",
+    "sc": "10:14.07",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Hamilton",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14937962",
+    "fk": "",
+    "sc": "10:14.17",
+    "tenk": ""
+  },
+  {
+    "name": "Sheridan Wheeler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14894678",
+    "fk": "",
+    "sc": "10:14.27",
+    "tenk": ""
+  },
+  {
+    "name": "Kathryn Nohilly",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14654986",
+    "fk": "",
+    "sc": "10:14.29",
+    "tenk": ""
+  },
+  {
+    "name": "Elise Wright",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14773159",
+    "fk": "",
+    "sc": "10:14.31",
+    "tenk": ""
+  },
+  {
+    "name": "Tatum Miller",
+    "wa_url": "https://worldathletics.org/athletes/united-states/tatum-miller-15015671",
+    "fk": "",
+    "sc": "10:14.62",
+    "tenk": ""
+  },
+  {
+    "name": "Emily Lamena",
+    "wa_url": "https://worldathletics.org/athletes/united-states/emily-lamena-15027606",
+    "fk": "",
+    "sc": "10:14.67",
+    "tenk": ""
+  },
+  {
+    "name": "Marie Hostetler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14792912",
+    "fk": "",
+    "sc": "10:14.75",
+    "tenk": ""
+  },
+  {
+    "name": "Winter Boese",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14930059",
+    "fk": "",
+    "sc": "10:14.85",
+    "tenk": ""
+  },
+  {
+    "name": "Jane Hedengren",
+    "wa_url": "https://worldathletics.org/athletes/united-states/jane-hedengren-15090151",
+    "fk": "14:44.79",
+    "sc": "",
+    "tenk": "30:46.80"
+  },
+  {
+    "name": "Emily Mackay",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14667572",
+    "fk": "14:45.81",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Riley Chamberlain",
+    "wa_url": "https://worldathletics.org/athletes/united-states/riley-chamberlain-14761322",
+    "fk": "14:58.97",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Sydney Vaught",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14765580",
+    "fk": "15:02.52",
+    "sc": "",
+    "tenk": "32:21.37"
+  },
+  {
+    "name": "Margot Appleton",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14848160",
+    "fk": "15:03.19",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Taryn Rawlings",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14531322",
+    "fk": "15:05.94",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Heather MacLean",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14535001",
+    "fk": "15:08.72",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Paityn Noe",
+    "wa_url": "https://worldathletics.org/athletes/united-states/paityn-noe-15029800",
+    "fk": "15:11.27",
+    "sc": "",
+    "tenk": "31:36.91"
+  },
+  {
+    "name": "Mary Dalton",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mary-dalton-14988514",
+    "fk": "15:11.31",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Jenna Hutchins",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14877695",
+    "fk": "15:15.76",
+    "sc": "",
+    "tenk": "32:01.02"
+  },
+  {
+    "name": "Maddy Elmore",
+    "wa_url": "https://worldathletics.org/athletes/united-states/maddy-elmore-15061487",
+    "fk": "15:15.79",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Lauren Hurley",
+    "wa_url": "https://worldathletics.org/athletes/united-states/lauren-goss-14747968",
+    "fk": "15:16.33",
+    "sc": "",
+    "tenk": "31:49.46",
+    "maiden": "n\u00e9e Goss"
+  },
+  {
+    "name": "Rylee Blade",
+    "wa_url": "https://worldathletics.org/athletes/united-states/rylee-blade-15085822",
+    "fk": "15:16.72",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Alyson Churchill",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14897567",
+    "fk": "15:17.20",
+    "sc": "",
+    "tenk": "32:20.70"
+  },
+  {
+    "name": "Annika Reiss",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14789852",
+    "fk": "15:17.31",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Rachel McArthur",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14679459",
+    "fk": "15:17.90",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Rosina Machu",
+    "wa_url": "https://worldathletics.org/athletes/united-states/rosina-machu-15015832",
+    "fk": "15:21.19",
+    "sc": "",
+    "tenk": "32:15.49"
+  },
+  {
+    "name": "Ava Mitchell",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ava-mitchell-15136058",
+    "fk": "15:22.13",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Natalie Cook",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14883271",
+    "fk": "15:24.26",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Jacey Farmer",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14890885",
+    "fk": "15:24.46",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Taylor Rohatinsky",
+    "wa_url": "https://worldathletics.org/athletes/united-states/taylor-rohatinksy-15027170",
+    "fk": "15:24.75",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Anna Camp Bennett",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14662275",
+    "fk": "15:24.95",
+    "sc": "",
+    "tenk": "",
+    "maiden": "n\u00e9e Camp"
+  },
+  {
+    "name": "Sam Bush",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14743326",
+    "fk": "15:25.00",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Mackenzie Doyle",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14859729",
+    "fk": "15:27.42",
+    "sc": "",
+    "tenk": "33:21.23"
+  },
+  {
+    "name": "Kelsey Chmiel",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14720374",
+    "fk": "15:27.83",
+    "sc": "",
+    "tenk": "32:55.19"
+  },
+  {
+    "name": "Aliandrea Upshaw",
+    "wa_url": "https://worldathletics.org/athletes/united-states/aliandrea-upshaw-014979405",
+    "fk": "15:27.86",
+    "sc": "",
+    "tenk": "32:22.42"
+  },
+  {
+    "name": "Danielle Shanahan",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14581067",
+    "fk": "15:28.04",
+    "sc": "",
+    "tenk": "32:28.31"
+  },
+  {
+    "name": "Brighter Jepchumba",
+    "wa_url": "https://worldathletics.org/athletes/united-states/brighter-jepchumba-15298127",
+    "fk": "15:28.09",
+    "sc": "",
+    "tenk": "32:40.65",
+    "_review": "naturalized? verify US eligibility"
+  },
+  {
+    "name": "Amaya Aramini",
+    "wa_url": "https://worldathletics.org/athletes/united-states/amaya-aramini-15076837",
+    "fk": "15:30.39",
+    "sc": "",
+    "tenk": "32:33.77"
+  },
+  {
+    "name": "Yazmine Wright",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14653226",
+    "fk": "15:30.60",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Jessica Secor",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14941591",
+    "fk": "15:30.66",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Brianna Robles",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14932580",
+    "fk": "15:30.84",
+    "sc": "",
+    "tenk": "32:50.06"
+  },
+  {
+    "name": "Elena Hayday",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14726754",
+    "fk": "15:30.94",
+    "sc": "",
+    "tenk": "32:31.41"
+  },
+  {
+    "name": "Grace Moore",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14668999",
+    "fk": "15:30.98",
+    "sc": "",
+    "tenk": "33:09.44"
+  },
+  {
+    "name": "Ali Weimer",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ali-weimer-15068766",
+    "fk": "15:31.13",
+    "sc": "",
+    "tenk": "32:42.31"
+  },
+  {
+    "name": "Haley Herberg",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14608506",
+    "fk": "15:31.14",
+    "sc": "",
+    "tenk": "32:34.67"
+  },
+  {
+    "name": "Morgan Nokes",
+    "wa_url": "https://worldathletics.org/athletes/united-states/morgan-nokes-15117595",
+    "fk": "15:31.20",
+    "sc": "",
+    "tenk": "32:20.03"
+  },
+  {
+    "name": "Allie Schadler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14696684",
+    "fk": "15:31.29",
+    "sc": "",
+    "tenk": "32:56.80"
+  },
+  {
+    "name": "Makenna Myler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14880932",
+    "fk": "15:31.32",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Aubrey Frentheway",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14801790",
+    "fk": "15:31.69",
+    "sc": "",
+    "tenk": "32:28.85"
+  },
+  {
+    "name": "Katherine Bohlke",
+    "wa_url": "https://worldathletics.org/athletes/united-states/katherine-bohlke-15076827",
+    "fk": "15:31.85",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Angelina Perez",
+    "wa_url": "https://worldathletics.org/athletes/united-states/angelina-perez-14992817",
+    "fk": "15:32.20",
+    "sc": "",
+    "tenk": "32:45.71"
+  },
+  {
+    "name": "Abbey Wheeler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14565163",
+    "fk": "15:32.81",
+    "sc": "",
+    "tenk": "32:53.50"
+  },
+  {
+    "name": "Samantha Nadel",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14362842",
+    "fk": "15:32.96",
+    "sc": "",
+    "tenk": "32:28.87"
+  },
+  {
+    "name": "Jenna Ramsey-Rutledge",
+    "wa_url": "https://worldathletics.org/athletes/united-states/jenna-ramsey-rutledge-15130242",
+    "fk": "15:33.01",
+    "sc": "",
+    "tenk": "32:24.23"
+  },
+  {
+    "name": "Megan Sailor",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14757131",
+    "fk": "15:33.48",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Alexandra Hays",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14679397",
+    "fk": "15:33.84",
+    "sc": "",
+    "tenk": "32:21.13"
+  },
+  {
+    "name": "Sydney Seymour",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14926144",
+    "fk": "15:34.01",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Abbe Goldstein",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14708270",
+    "fk": "15:34.15",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Erin Strzelecki",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14934149",
+    "fk": "15:34.64",
+    "sc": "",
+    "tenk": "32:44.62"
+  },
+  {
+    "name": "Alycia Cridebring",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14464992",
+    "fk": "15:34.79",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Sophie Atkinson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14761357",
+    "fk": "15:35.33",
+    "sc": "",
+    "tenk": "33:29.46"
+  },
+  {
+    "name": "Emily Covert",
+    "wa_url": "https://worldathletics.org/athletes/united-states/emily-covert-14715818",
+    "fk": "15:35.40",
+    "sc": "",
+    "tenk": "32:30.82"
+  },
+  {
+    "name": "Isabel Van Camp",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14794293",
+    "fk": "15:35.64",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Marlee Starliper",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14783156",
+    "fk": "15:36.51",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Abigail Hassman",
+    "wa_url": "https://worldathletics.org/athletes/united-states/abigail-hassman-014970377",
+    "fk": "15:36.92",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Annamaria Kostarellis",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14668765",
+    "fk": "15:37.41",
+    "sc": "",
+    "tenk": "32:10.96"
+  },
+  {
+    "name": "Amber Zimmerman",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14324962",
+    "fk": "15:37.49",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Jaci Smith",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14594057",
+    "fk": "15:37.57",
+    "sc": "",
+    "tenk": "32:21.98"
+  },
+  {
+    "name": "Jenny Schilling",
+    "wa_url": "https://worldathletics.org/athletes/united-states/jenny-schilling-15081940",
+    "fk": "15:37.62",
+    "sc": "",
+    "tenk": "32:44.19"
+  },
+  {
+    "name": "Kylie Finger",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14906513",
+    "fk": "15:38.23",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Brianna Weidler",
+    "wa_url": "https://worldathletics.org/athletes/united-states/brianna-weidler-15013606",
+    "fk": "15:38.45",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Katie Osika",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14721873",
+    "fk": "15:39.01",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Berlyn Schutz",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14807553",
+    "fk": "15:39.38",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Eva Jess",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14716236",
+    "fk": "15:39.51",
+    "sc": "",
+    "tenk": "32:50.28"
+  },
+  {
+    "name": "Elizabeth Pickett",
+    "wa_url": "https://worldathletics.org/athletes/united-states/elizabeth-pickett-14972899",
+    "fk": "15:39.71",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Klaudia O'Malley",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14927045",
+    "fk": "15:40.11",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Calene Morris",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14635315",
+    "fk": "15:40.15",
+    "sc": "",
+    "tenk": "32:58.84"
+  },
+  {
+    "name": "Tristian Spence",
+    "wa_url": "https://worldathletics.org/athletes/united-states/tristian-spence-15119618",
+    "fk": "15:40.70",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Mia Cochran",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mia-cochran-14972881",
+    "fk": "15:40.96",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Brooke Rauber",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14769417",
+    "fk": "15:41.11",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Millie Wilcox",
+    "wa_url": "https://worldathletics.org/athletes/united-states/millie-wilcox-15065728",
+    "fk": "15:41.16",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Emma Grace Hurley",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14708277",
+    "fk": "15:41.25",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Lindsay Cunningham",
+    "wa_url": "https://worldathletics.org/athletes/united-states/lindsay-cunningham-014972936",
+    "fk": "15:41.30",
+    "sc": "",
+    "tenk": "32:43.64"
+  },
+  {
+    "name": "Riley Stewart",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14907137",
+    "fk": "15:41.45",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Selma Anderson",
+    "wa_url": "https://worldathletics.org/athletes/united-states/selma-anderson-15099306",
+    "fk": "15:41.68",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Nicole Fegans",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14790140",
+    "fk": "15:41.98",
+    "sc": "",
+    "tenk": "33:00.89"
+  },
+  {
+    "name": "Dominique Clairmonte",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14723161",
+    "fk": "15:42.00",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Abbey Nechanicky",
+    "wa_url": "https://worldathletics.org/athletes/united-states/abbey-nechanicky-15040092",
+    "fk": "15:42.12",
+    "sc": "",
+    "tenk": "32:23.93"
+  },
+  {
+    "name": "Dana Giordano",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14463984",
+    "fk": "15:42.19",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Tilly O'Connor",
+    "wa_url": "https://worldathletics.org/athletes/united-states/tilly-oconnor-14972902",
+    "fk": "15:42.69",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Ava Earl",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ava-earl-15010481",
+    "fk": "15:42.72",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Tristin Van Ord",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14628226",
+    "fk": "15:42.78",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Logan Hofstee",
+    "wa_url": "https://worldathletics.org/athletes/united-states/logan-hofstee-15065683",
+    "fk": "15:43.03",
+    "sc": "",
+    "tenk": "32:21.15"
+  },
+  {
+    "name": "Brynn Brown",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14844371",
+    "fk": "15:43.09",
+    "sc": "",
+    "tenk": "33:13.74"
+  },
+  {
+    "name": "Carlee Hansen",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14824359",
+    "fk": "15:43.54",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Bethany Michalak",
+    "wa_url": "https://worldathletics.org/athletes/united-states/bethany-michalak-15038821",
+    "fk": "15:43.84",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Maggie Donahue",
+    "wa_url": "https://worldathletics.org/athletes/united-states/maggie-donahue-014975595",
+    "fk": "15:43.98",
+    "sc": "",
+    "tenk": "33:05.56"
+  },
+  {
+    "name": "Addie Engel",
+    "wa_url": "https://worldathletics.org/athletes/united-states/addie-engel-014968192",
+    "fk": "15:44.02",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Sarah Carter",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14601925",
+    "fk": "15:44.20",
+    "sc": "",
+    "tenk": "32:58.20"
+  },
+  {
+    "name": "Isabel Allori",
+    "wa_url": "https://worldathletics.org/athletes/united-states/isabel-allori-15076804",
+    "fk": "15:44.41",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Tatiana Cornejo",
+    "wa_url": "https://worldathletics.org/athletes/united-states/tatiana-cornejo-014761318",
+    "fk": "15:44.59",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Colbi Borland",
+    "wa_url": "https://worldathletics.org/athletes/united-states/colbi-borland-14971334",
+    "fk": "15:44.74",
+    "sc": "",
+    "tenk": ""
+  },
+  {
+    "name": "Sophia Toti",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14882709",
+    "fk": "15:44.89",
+    "sc": "",
+    "tenk": "32:57.89"
+  },
+  {
+    "name": "Sara Hall",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14305595",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:32.52"
+  },
+  {
+    "name": "Laura Thweatt",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14326779",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:01.52"
+  },
+  {
+    "name": "Felicia Pasadyn",
+    "wa_url": "https://worldathletics.org/athletes/united-states/felicia-pasadyn-014798992",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:04.17"
+  },
+  {
+    "name": "Emma Bates",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14453636",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:06.11"
+  },
+  {
+    "name": "Ruth White",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ruth-white-15199642",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:20.60"
+  },
+  {
+    "name": "Jacqueline Gaughan",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14689172",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:24.82"
+  },
+  {
+    "name": "Jessie Cardin",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14649486",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:27.67"
+  },
+  {
+    "name": "Mikayla Reed",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14768850",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:30.04"
+  },
+  {
+    "name": "Morgan Jensen",
+    "wa_url": "https://worldathletics.org/athletes/united-states/morgan-jensen-014975346",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:33.52"
+  },
+  {
+    "name": "Andrea Markezich",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14929859",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:36.16"
+  },
+  {
+    "name": "Billie Hatch",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14888625",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:36.74"
+  },
+  {
+    "name": "Mazzie Melaney",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14878352",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:37.73"
+  },
+  {
+    "name": "India Johnson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14756949",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:38.36"
+  },
+  {
+    "name": "Hannah Branch",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14820007",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:39.68"
+  },
+  {
+    "name": "Lily Murphy",
+    "wa_url": "https://worldathletics.org/athletes/united-states/lily-murphy-15069851",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:40.92"
+  },
+  {
+    "name": "Micaela Rivera",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14839128",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:41.48"
+  },
+  {
+    "name": "Mackenzie Caldwell",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14702979",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:41.63"
+  },
+  {
+    "name": "Eleanor Mancini",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14891661",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:43.71"
+  },
+  {
+    "name": "Annabel Stafford",
+    "wa_url": "https://worldathletics.org/athletes/united-states/annabel-stafford-15011167",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:45.14"
+  },
+  {
+    "name": "Annastasia Peters",
+    "wa_url": "https://worldathletics.org/athletes/united-states/annastasia-peters-15117594",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:45.80"
+  },
+  {
+    "name": "Ella Chesnut",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ella-chesnut-15027591",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:46.56"
+  },
+  {
+    "name": "Mackenna Curtis-Collins",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14723158",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.14"
+  },
+  {
+    "name": "Emma Eastman",
+    "wa_url": "https://worldathletics.org/athletes/united-states/emma-eastman-014972745",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.21"
+  },
+  {
+    "name": "Skylar Boogerd",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14879181",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.83"
+  },
+  {
+    "name": "Grace Forbes",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14774928",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:48.07"
+  },
+  {
+    "name": "Florance Uwajeneza",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14874954",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:49.06"
+  },
+  {
+    "name": "Savannah Roark",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14881063",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:49.76"
+  },
+  {
+    "name": "Brooke Wilson",
+    "wa_url": "https://worldathletics.org/athletes/united-states/brooke-wilson-15119624",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.07"
+  },
+  {
+    "name": "Camila Noe",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14800801",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.17"
+  },
+  {
+    "name": "Rylie Lusk",
+    "wa_url": "https://worldathletics.org/athletes/united-states/rylie-lusk-15014354",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.97"
+  },
+  {
+    "name": "Maeve Stiles",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14892651",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:51.12"
+  },
+  {
+    "name": "Mackenzie Barnett",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mackenzie-barnett-15011987",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:52.43"
+  },
+  {
+    "name": "Monica Hebner",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14745789",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.07"
+  },
+  {
+    "name": "Madison Trippett",
+    "wa_url": "https://worldathletics.org/athletes/united-states/madison-trippett-14975594",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.33"
+  },
+  {
+    "name": "Makayla Perez",
+    "wa_url": "https://worldathletics.org/athletes/united-states/makayla-perez-15012703",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.87"
+  },
+  {
+    "name": "Katja Goldring",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14311107",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:56.28"
+  },
+  {
+    "name": "Fiona Smith",
+    "wa_url": "https://worldathletics.org/athletes/united-states/fiona-smith-14973204",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.28"
+  },
+  {
+    "name": "Faith Duncan",
+    "wa_url": "https://worldathletics.org/athletes/united-states/faith-duncan-14972883",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.31"
+  },
+  {
+    "name": "Charlotte Costich",
+    "wa_url": "https://worldathletics.org/athletes/united-states/charlotte-costich-15068472",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.53"
+  },
+  {
+    "name": "Megan Roberts",
+    "wa_url": "https://worldathletics.org/athletes/united-states/megan-roberts-15145863",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.74"
+  },
+  {
+    "name": "Linda Perez",
+    "wa_url": "https://worldathletics.org/athletes/united-states/linda-perez-15024020",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:58.63"
+  },
+  {
+    "name": "Analee Weaver",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14988596",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.04"
+  },
+  {
+    "name": "Ella Gilson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14907418",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.09"
+  },
+  {
+    "name": "Erin McDonald",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14647616",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.44"
+  },
+  {
+    "name": "Sophia King",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sophia-king-15005352",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.93"
+  },
+  {
+    "name": "Ciara O'Shea",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14937986",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:00.20"
+  },
+  {
+    "name": "Kristen Garcia",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14927628",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:01.77"
+  },
+  {
+    "name": "Gionna Quarzo",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14841591",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:02.14"
+  },
+  {
+    "name": "Jesselyn Bries",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14878778",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:03.07"
+  },
+  {
+    "name": "Lily Tomasula-Martin",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14824873",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:03.32"
+  },
+  {
+    "name": "Dana Feyen",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14927629",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:04.82"
+  },
+  {
+    "name": "McKaylie Caesar",
+    "wa_url": "https://worldathletics.org/athletes/united-states/mckaylie-caesar-014973524",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:05.56"
+  },
+  {
+    "name": "Ali Bainbridge",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ali-bainbridge-15121793",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.73"
+  },
+  {
+    "name": "Jennifer Sandoval-Guzman",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14745375",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.73"
+  },
+  {
+    "name": "Katrina Spratford-Sterling",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14362047",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.80"
+  },
+  {
+    "name": "Sameen Andar",
+    "wa_url": "https://worldathletics.org/athletes/united-states/sameen-andar-15017640",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:07.48"
+  },
+  {
+    "name": "Kaylee Bogina",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14706048",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:07.88"
+  },
+  {
+    "name": "Abby Herring",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14927401",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.07"
+  },
+  {
+    "name": "India Jones",
+    "wa_url": "https://worldathletics.org/athletes/united-states/india-jones-15065446",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.30"
+  },
+  {
+    "name": "Michaela Reinhart",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14689833",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.46"
+  },
+  {
+    "name": "Leah Stephens",
+    "wa_url": "https://worldathletics.org/athletes/united-states/leah-stephens-15027611",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.25"
+  },
+  {
+    "name": "Mariah Howlett",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14789523",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.69"
+  },
+  {
+    "name": "Madison Offstein",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14651823",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.78"
+  },
+  {
+    "name": "Ava Nuttall",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ava-nuttall-14972783",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:10.75"
+  },
+  {
+    "name": "Allison Kuzma",
+    "wa_url": "https://worldathletics.org/athletes/united-states/allison-kuzma-15035277",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:10.83"
+  },
+  {
+    "name": "Joy Gill",
+    "wa_url": "https://worldathletics.org/athletes/united-states/joy-gill-15062830",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:11.05"
+  },
+  {
+    "name": "Mary Caroline Heinen",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14802048",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.09"
+  },
+  {
+    "name": "Jessa Hanson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14828273",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.14"
+  },
+  {
+    "name": "Gillian Bushee",
+    "wa_url": "https://worldathletics.org/athletes/united-states/gillian-bushee-15027521",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.83"
+  },
+  {
+    "name": "Erin Archibeck",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14843461",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:14.53"
+  },
+  {
+    "name": "Samantha Stieve",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14906510",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:15.30"
+  },
+  {
+    "name": "Daisy Liljegren",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14777973",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:15.94"
+  },
+  {
+    "name": "Bridget Lyons",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14315750",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.07"
+  },
+  {
+    "name": "Danielle Orie",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14715785",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.17"
+  },
+  {
+    "name": "Louise Lounes",
+    "wa_url": "https://worldathletics.org/athletes/united-states/louise-lounes-14968736",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.30"
+  },
+  {
+    "name": "Collette Lowengrub",
+    "wa_url": "https://worldathletics.org/athletes/united-states/collette-lowengrub-15013591",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.02"
+  },
+  {
+    "name": "Kaitlyn Peale",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14318679",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.16"
+  },
+  {
+    "name": "Gabby Hentemann",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14785249",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.48"
+  },
+  {
+    "name": "Carrie Mack",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14634516",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.50"
+  },
+  {
+    "name": "Alexa Westley",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14834220",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.64"
+  },
+  {
+    "name": "Olivia Borowiak",
+    "wa_url": "https://worldathletics.org/athletes/united-states/olivia-borowiak-014978918",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.73"
+  },
+  {
+    "name": "Claire Daniels",
+    "wa_url": "https://worldathletics.org/athletes/united-states/claire-daniels-14988879",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:18.60"
+  },
+  {
+    "name": "Ava Criniti",
+    "wa_url": "https://worldathletics.org/athletes/united-states/ava-criniti-15076821",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.10"
+  },
+  {
+    "name": "Briley Bickerstaff",
+    "wa_url": "https://worldathletics.org/athletes/united-states/briley-bickerstaff-15040334",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.10"
+  },
+  {
+    "name": "Grace Connolly",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14737057",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.28"
+  },
+  {
+    "name": "Megan Lacy",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14451584",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.33"
+  },
+  {
+    "name": "Christina Geisler",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14756950",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.34"
+  },
+  {
+    "name": "Caroline Lyerly",
+    "wa_url": "https://worldathletics.org/athletes/united-states/caroline-lyerly-15131839",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.80"
+  },
+  {
+    "name": "Carly Wilkes",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14876092",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.08"
+  },
+  {
+    "name": "Allie Kieffer",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14464599",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.11"
+  },
+  {
+    "name": "Olivia Foody",
+    "wa_url": "https://worldathletics.org/athletes/united-states/olivia-foody-15148802",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.31"
+  },
+  {
+    "name": "Lucy Ndungu",
+    "wa_url": "https://worldathletics.org/athletes/united-states/lucy-ndungu-15025696",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.55"
+  },
+  {
+    "name": "Kelsey Swenson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14933561",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.11"
+  },
+  {
+    "name": "Audrey Dadamio",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14884822",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.12"
+  },
+  {
+    "name": "Ava Dobson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14907158",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.58"
+  },
+  {
+    "name": "Chloe Hershenow",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14933019",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.75"
+  },
+  {
+    "name": "Anna Fauske",
+    "wa_url": "https://worldathletics.org/athletes/united-states/anna-fauske-15015750",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:22.66"
+  },
+  {
+    "name": "Angelia Rafter",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14826963",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:22.88"
+  },
+  {
+    "name": "Lesley Boyd",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14879186",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:23.12"
+  },
+  {
+    "name": "Clara Mayfield",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14798757",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:23.41"
+  },
+  {
+    "name": "Mariah Wehrle",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14906802",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.04"
+  },
+  {
+    "name": "Reagan Doman",
+    "wa_url": "https://worldathletics.org/athletes/united-states/reagan-doman-15316249",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.35"
+  },
+  {
+    "name": "Samantha Saenz",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14926186",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.48"
+  },
+  {
+    "name": "Kylie Anicic",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14801828",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.55"
+  },
+  {
+    "name": "Megan Hipple",
+    "wa_url": "https://worldathletics.org/athletes/united-states/megan-hipple-15129571",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.83"
+  },
+  {
+    "name": "Adelyn Fairley",
+    "wa_url": "https://worldathletics.org/athletes/united-states/adelyn-fairley-15123723",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.95"
+  },
+  {
+    "name": "Danielle Barrett",
+    "wa_url": "https://worldathletics.org/athletes/united-states/danielle-barrett-15013609",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.01"
+  },
+  {
+    "name": "Rachel Sutliff",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14823652",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.40"
+  },
+  {
+    "name": "Kaitlyn Barthell",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14843949",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.57"
+  },
+  {
+    "name": "Maddy Denner",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14787771",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:27.06"
+  },
+  {
+    "name": "Jessica Frydenlund",
+    "wa_url": "https://worldathletics.org/athletes/united-states/jessica-frydenlund-15119609",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:27.21"
+  },
+  {
+    "name": "Amelia Keyser-Gibson",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14695747",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.38"
+  },
+  {
+    "name": "Leane Willemse",
+    "wa_url": "https://worldathletics.org/athletes/united-states/leane-willemse-15081975",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.72"
+  },
+  {
+    "name": "Daniella Santos",
+    "wa_url": "https://worldathletics.org/athletes/united-states/daniella-santos-014968191",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.94"
+  },
+  {
+    "name": "Andrea Kuhn",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14884329",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:29.49"
+  },
+  {
+    "name": "Naomi Smith",
+    "wa_url": "https://worldathletics.org/athletes/athlete=14906934",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:29.85"
+  }
+]

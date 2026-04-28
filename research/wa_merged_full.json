@@ -1,0 +1,4488 @@
+[
+  {
+    "name": "Val Constien",
+    "age": 30,
+    "college": "Colorado",
+    "fk": "15:32.83",
+    "sc": "9:03.22",
+    "tenk": "",
+    "events": "SC '22 '24 '25",
+    "ig": "valerieconstien"
+  },
+  {
+    "name": "Courtney Wayment",
+    "age": 27,
+    "college": "BYU",
+    "fk": "14:49.78",
+    "sc": "9:06.50",
+    "tenk": "31:43.17",
+    "events": "SC '22 '23 '24 '25",
+    "ig": "courtsasport20"
+  },
+  {
+    "name": "Gabrielle Jennings",
+    "age": 27,
+    "college": "Furman",
+    "fk": "15:13.50",
+    "sc": "9:06.61",
+    "tenk": "",
+    "events": "SC '22 '23 '24 '25",
+    "ig": "the__gabs"
+  },
+  {
+    "name": "Marisa Howard",
+    "age": null,
+    "college": "Boise State",
+    "fk": "",
+    "sc": "9:07.14",
+    "tenk": "",
+    "events": "SC '23 '24",
+    "ig": "marisavhoward"
+  },
+  {
+    "name": "Emma Coburn",
+    "age": 35,
+    "college": "Colorado",
+    "fk": "",
+    "sc": "9:07.93",
+    "tenk": "",
+    "events": "SC '22 '23",
+    "ig": "emmacoburn"
+  },
+  {
+    "name": "Kaylee Mitchell",
+    "age": 26,
+    "college": "Oregon State",
+    "fk": "15:15.80",
+    "sc": "9:08.66",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": "kaylee_mitchell_"
+  },
+  {
+    "name": "Lexy Halladay",
+    "age": 24,
+    "college": "BYU",
+    "fk": "14:52.93",
+    "sc": "9:08.68",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": "lexy.halladay.lowry",
+    "maiden": "Halladay-Lowry"
+  },
+  {
+    "name": "Courtney Frerichs",
+    "age": 33,
+    "college": "UMKC / New Mexico",
+    "fk": "14:48.75",
+    "sc": "9:10.59",
+    "tenk": "31:23.13",
+    "events": "SC '22 '23",
+    "ig": "courtneyfrerichs"
+  },
+  {
+    "name": "Angelina Napoleon",
+    "age": 21,
+    "college": "NC State",
+    "fk": "15:40.45",
+    "sc": "9:10.72",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": "angelinanapoleon"
+  },
+  {
+    "name": "Kristlin Gear",
+    "age": null,
+    "college": "Furman / Arkansas",
+    "fk": "",
+    "sc": "9:11.64",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": "krissygear13"
+  },
+  {
+    "name": "Olivia Markezich",
+    "age": 25,
+    "college": "Notre Dame",
+    "fk": "15:14.42",
+    "sc": "9:14.26",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": "oliviamarkezich"
+  },
+  {
+    "name": "Allie Ostrander",
+    "age": 29,
+    "college": "Boise State",
+    "fk": "15:26.50",
+    "sc": "9:21.82",
+    "tenk": "",
+    "events": "5K '22, SC '24 '25",
+    "ig": "allie_ostrander"
+  },
+  {
+    "name": "Madie Boreman",
+    "age": 27,
+    "college": "Colorado",
+    "fk": "15:24.89",
+    "sc": "9:21.98",
+    "tenk": "",
+    "events": "SC '22 '23 '24",
+    "ig": "boredmadie"
+  },
+  {
+    "name": "Angelina Ellis",
+    "age": 27,
+    "college": "Butler",
+    "fk": "15:33.83",
+    "sc": "9:22.03",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": "angelina.ellis"
+  },
+  {
+    "name": "Annie Rodenfels",
+    "age": 29,
+    "college": "Centre College",
+    "fk": "15:00.64",
+    "sc": "9:22.66",
+    "tenk": "32:33.73",
+    "events": "5K '22 '23 '25, SC '22 '24",
+    "ig": "andrearodenfels"
+  },
+  {
+    "name": "Sophie Novak",
+    "age": 23,
+    "college": "Notre Dame",
+    "fk": "15:38.57",
+    "sc": "9:23.04",
+    "tenk": "",
+    "events": "SC '24",
+    "ig": "sophieee.novak"
+  },
+  {
+    "name": "Gracie Hyde",
+    "age": 26,
+    "college": "Arkansas",
+    "fk": "15:43.34",
+    "sc": "9:24.62",
+    "tenk": "",
+    "events": "SC '24 '25",
+    "ig": "graciehyde_"
+  },
+  {
+    "name": "Kayley DeLay",
+    "age": 26,
+    "college": "Yale",
+    "fk": "15:05.96",
+    "sc": "9:25.08",
+    "tenk": "",
+    "events": "5K '25, SC '22 '23 '24",
+    "ig": "kayleyloopy"
+  },
+  {
+    "name": "Logan Jolly",
+    "age": 27,
+    "college": "Clemson / Arkansas",
+    "fk": "15:29.08",
+    "sc": "9:26.23",
+    "tenk": "",
+    "events": "SC '22 '23 '24 '25",
+    "ig": "logan.jolly",
+    "maiden": "n\u00e9e Morris"
+  },
+  {
+    "name": "Taylor Lovell",
+    "age": null,
+    "college": "BYU",
+    "fk": "",
+    "sc": "9:26.99",
+    "tenk": "",
+    "events": "SC '24",
+    "ig": "taylor12lovell"
+  },
+  {
+    "name": "Rachel Anderson",
+    "age": 24,
+    "college": "Southern Illinois",
+    "fk": "",
+    "sc": "9:28.72",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Katie Rainsberger",
+    "age": 27,
+    "college": "Oregon / Washington",
+    "fk": "15:44.13",
+    "sc": "9:29.77",
+    "tenk": "",
+    "events": "SC '22 '23",
+    "ig": "katierains_17"
+  },
+  {
+    "name": "Janette Schraft",
+    "age": null,
+    "college": "Iowa State",
+    "fk": "",
+    "sc": "9:30.38",
+    "tenk": "",
+    "events": "SC '24 '25",
+    "ig": ""
+  },
+  {
+    "name": "Colleen Quigley",
+    "age": 33,
+    "college": "Florida State",
+    "fk": "",
+    "sc": "9:32.48",
+    "tenk": "",
+    "events": "SC '22 '23",
+    "ig": "steeple_squigs"
+  },
+  {
+    "name": "Carmen Graves",
+    "age": 35,
+    "college": "Roanoke College",
+    "fk": "15:32.41",
+    "sc": "9:32.58",
+    "tenk": "",
+    "events": "SC '22 '23 '24",
+    "ig": "carmenpelar"
+  },
+  {
+    "name": "Alex Teubel",
+    "age": 32,
+    "college": "Northern Iowa (UNI)",
+    "fk": "",
+    "sc": "9:32.81",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emma Gee",
+    "age": null,
+    "college": "BYU / Temple",
+    "fk": "",
+    "sc": "9:33.08",
+    "tenk": "",
+    "events": "SC '23 '24 '25",
+    "ig": ""
+  },
+  {
+    "name": "Shelby Jensen",
+    "age": 20,
+    "college": "Utah State",
+    "fk": "",
+    "sc": "9:36.61",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Maggie Liebich",
+    "age": null,
+    "college": "Princeton / Washington",
+    "fk": "",
+    "sc": "9:37.40",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Karrie Baloga",
+    "age": null,
+    "college": "Colorado / NAU / BYU",
+    "fk": "",
+    "sc": "9:37.93",
+    "tenk": "",
+    "events": "SC '24",
+    "ig": ""
+  },
+  {
+    "name": "Colett Rampf",
+    "age": null,
+    "college": "Saint Leo",
+    "fk": "",
+    "sc": "9:38.01",
+    "tenk": "",
+    "events": "SC '24 '25",
+    "ig": ""
+  },
+  {
+    "name": "Alissa Niggemann",
+    "age": 28,
+    "college": "Wisconsin",
+    "fk": "",
+    "sc": "9:39.96",
+    "tenk": "",
+    "events": "SC '22",
+    "ig": "alissaniggemann"
+  },
+  {
+    "name": "Katherine Thronson",
+    "age": 25,
+    "college": "Tennessee / Notre Dame",
+    "fk": "15:44.56",
+    "sc": "9:40.49",
+    "tenk": "",
+    "events": "SC '23 '24",
+    "ig": "katie_thronson"
+  },
+  {
+    "name": "Judi Jones",
+    "age": 29,
+    "college": "Nebraska",
+    "fk": "",
+    "sc": "9:41.00",
+    "tenk": "",
+    "events": "SC '23 '24",
+    "ig": "judi.spinks"
+  },
+  {
+    "name": "Madeline Strandemo",
+    "age": 30,
+    "college": "Minnesota",
+    "fk": "",
+    "sc": "9:42.08",
+    "tenk": "",
+    "events": "SC '23",
+    "ig": "mstrandemo"
+  },
+  {
+    "name": "Emily Paupore",
+    "age": 24,
+    "college": "Central Michigan",
+    "fk": "",
+    "sc": "9:43.24",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Calli Doan",
+    "age": 25,
+    "college": "Liberty",
+    "fk": "15:39.06",
+    "sc": "9:44.37",
+    "tenk": "",
+    "events": "SC '24 '25",
+    "ig": "calli.m.doan"
+  },
+  {
+    "name": "Kayla Windemuller",
+    "age": 25,
+    "college": "Michigan",
+    "fk": "",
+    "sc": "9:47.36",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Abby Kohut-Jackson",
+    "age": null,
+    "college": "Minnesota",
+    "fk": "",
+    "sc": "9:47.65",
+    "tenk": "",
+    "events": "SC '22 '23",
+    "ig": ""
+  },
+  {
+    "name": "Sydney Masciarelli",
+    "age": 22,
+    "college": "North Carolina",
+    "fk": "",
+    "sc": "9:48.12",
+    "tenk": "",
+    "events": "",
+    "ig": "sydney.masciarelli"
+  },
+  {
+    "name": "Emily Cole",
+    "age": 25,
+    "college": "Duke",
+    "fk": "",
+    "sc": "9:48.20",
+    "tenk": "",
+    "events": "SC '23",
+    "ig": "emilycole"
+  },
+  {
+    "name": "Madison Neuner",
+    "age": 25,
+    "college": "Northeastern / Syracuse",
+    "fk": "",
+    "sc": "9:48.82",
+    "tenk": "",
+    "events": "SC '24",
+    "ig": ""
+  },
+  {
+    "name": "Layla Roebke",
+    "age": 24,
+    "college": "Tulsa / Louisville",
+    "fk": "",
+    "sc": "9:49.08",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Sophia McDonnell",
+    "age": null,
+    "college": "New Mexico",
+    "fk": "",
+    "sc": "9:50.18",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": "sophia_mcdonnell"
+  },
+  {
+    "name": "Dana Klein",
+    "age": 29,
+    "college": "Yale / San Francisco",
+    "fk": "",
+    "sc": "9:50.54",
+    "tenk": "32:42.36",
+    "events": "SC '24",
+    "ig": "keep_the_joy_in_running"
+  },
+  {
+    "name": "Victoria Patterson",
+    "age": null,
+    "college": "Duke / Columbia / Oregon",
+    "fk": "",
+    "sc": "9:51.02",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Perri Bockrath",
+    "age": null,
+    "college": "Kentucky / Washington",
+    "fk": "",
+    "sc": "9:52.00",
+    "tenk": "",
+    "events": "",
+    "ig": "perri.bockrath"
+  },
+  {
+    "name": "Victoria Gerlach",
+    "age": 31,
+    "college": "Penn State",
+    "fk": "",
+    "sc": "9:52.12",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Zoie Dundon",
+    "age": null,
+    "college": "Minnesota",
+    "fk": "",
+    "sc": "9:52.46",
+    "tenk": "",
+    "events": "",
+    "ig": "zoiedundon"
+  },
+  {
+    "name": "Katelyn Mitchem",
+    "age": 26,
+    "college": "Wyoming",
+    "fk": "",
+    "sc": "9:52.49",
+    "tenk": "",
+    "events": "SC '23",
+    "ig": ""
+  },
+  {
+    "name": "Emma Tavella",
+    "age": 24,
+    "college": "UCLA / Boston College",
+    "fk": "",
+    "sc": "9:52.68",
+    "tenk": "",
+    "events": "SC '24",
+    "ig": ""
+  },
+  {
+    "name": "Lydia Olivere",
+    "age": 26,
+    "college": "Villanova",
+    "fk": "",
+    "sc": "9:52.69",
+    "tenk": "",
+    "events": "SC '23 '24",
+    "ig": "lydia_olivere"
+  },
+  {
+    "name": "Kennady Fontenot",
+    "age": null,
+    "college": "Texas A&M",
+    "fk": "",
+    "sc": "9:52.75",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mia Nahom",
+    "age": 27,
+    "college": "Connecticut",
+    "fk": "",
+    "sc": "9:52.81",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alexia Goff",
+    "age": null,
+    "college": "",
+    "fk": "",
+    "sc": "9:53.30",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Madaline Ullom",
+    "age": 24,
+    "college": "Penn State",
+    "fk": "",
+    "sc": "9:54.42",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Raygan Dimond",
+    "age": null,
+    "college": "BYU",
+    "fk": "",
+    "sc": "9:55.03",
+    "tenk": "",
+    "events": "",
+    "ig": "",
+    "maiden": "n\u00e9e Peterson"
+  },
+  {
+    "name": "Isabell Schmitz",
+    "age": null,
+    "college": "Minnesota",
+    "fk": "",
+    "sc": "9:55.19",
+    "tenk": "",
+    "events": "",
+    "ig": "izzyschmitz1"
+  },
+  {
+    "name": "Kayla Schiera",
+    "age": 26,
+    "college": "Southern Illinois / Western Michigan",
+    "fk": "",
+    "sc": "9:56.23",
+    "tenk": "",
+    "events": "",
+    "ig": "kaylaschiera"
+  },
+  {
+    "name": "Kate Putman",
+    "age": null,
+    "college": "NC State",
+    "fk": "",
+    "sc": "9:56.26",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Annie Boos",
+    "age": 26,
+    "college": "California / Syracuse",
+    "fk": "",
+    "sc": "9:56.28",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sasha Neglia",
+    "age": null,
+    "college": "North Carolina",
+    "fk": "",
+    "sc": "9:56.73",
+    "tenk": "",
+    "events": "",
+    "ig": "sashaneglia"
+  },
+  {
+    "name": "Molly Malague",
+    "age": null,
+    "college": "Harvard",
+    "fk": "",
+    "sc": "9:56.92",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Caroline Austin",
+    "age": 34,
+    "college": "Washington State",
+    "fk": "",
+    "sc": "9:56.98",
+    "tenk": "",
+    "events": "",
+    "ig": "carolinelaustin_"
+  },
+  {
+    "name": "Sadie Sargent",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:34.18",
+    "sc": "9:57.11",
+    "tenk": "",
+    "events": "",
+    "ig": "sadies.mitchell"
+  },
+  {
+    "name": "Meredith Rizzo",
+    "age": 31,
+    "college": "Yale / Georgetown",
+    "fk": "",
+    "sc": "9:57.52",
+    "tenk": "",
+    "events": "SC '23",
+    "ig": "meredithrizzo"
+  },
+  {
+    "name": "Olivia Morganti",
+    "age": 24,
+    "college": "Penn",
+    "fk": "",
+    "sc": "9:57.94",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katie Clute",
+    "age": 20,
+    "college": "Oregon",
+    "fk": "",
+    "sc": "9:57.98",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Aziza Chigataeva",
+    "age": 26,
+    "college": "Binghamton",
+    "fk": "",
+    "sc": "9:58.02",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Grace Gilbreth",
+    "age": null,
+    "college": "Montana State",
+    "fk": "",
+    "sc": "9:58.84",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Sara Morefield",
+    "age": null,
+    "college": "Tulsa",
+    "fk": "",
+    "sc": "10:00.34",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Harper McClain",
+    "age": 22,
+    "college": "Oregon / Oregon State",
+    "fk": "",
+    "sc": "10:00.59",
+    "tenk": "",
+    "events": "SC '23",
+    "ig": "harpityharpster"
+  },
+  {
+    "name": "Gabrielle Orie",
+    "age": null,
+    "college": "Cornell",
+    "fk": "",
+    "sc": "10:01.04",
+    "tenk": "",
+    "events": "",
+    "ig": "gabrielleorie"
+  },
+  {
+    "name": "Hayley Burns",
+    "age": null,
+    "college": "Coconino CC / Northern Arizona",
+    "fk": "15:18.26",
+    "sc": "10:01.59",
+    "tenk": "",
+    "events": "",
+    "ig": "hayleyrburns"
+  },
+  {
+    "name": "Jessica Scheriff",
+    "age": 29,
+    "college": "Iona",
+    "fk": "",
+    "sc": "10:01.78",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Malia Pivec",
+    "age": 26,
+    "college": "Boise State / Oregon",
+    "fk": "",
+    "sc": "10:01.93",
+    "tenk": "",
+    "events": "",
+    "ig": "malia.pivec"
+  },
+  {
+    "name": "Sara Van Dyke",
+    "age": null,
+    "college": "Cal Poly",
+    "fk": "",
+    "sc": "10:02.61",
+    "tenk": "",
+    "events": "SC '25",
+    "ig": ""
+  },
+  {
+    "name": "Abby Kendrick",
+    "age": null,
+    "college": "Boise State",
+    "fk": "",
+    "sc": "10:02.65",
+    "tenk": "",
+    "events": "",
+    "ig": "abby.kendrick"
+  },
+  {
+    "name": "Emily Brown",
+    "age": null,
+    "college": "Pittsburgh",
+    "fk": "",
+    "sc": "10:02.71",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emily Jobes",
+    "age": null,
+    "college": "Pittsburgh / Boise State",
+    "fk": "",
+    "sc": "10:03.05",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Elizabeth Dildine",
+    "age": null,
+    "college": "BYU",
+    "fk": "",
+    "sc": "10:03.27",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Lindsey Adams",
+    "age": null,
+    "college": "",
+    "fk": "",
+    "sc": "10:03.58",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Catherine Garrison",
+    "age": 22,
+    "college": "William & Mary / Colorado State",
+    "fk": "",
+    "sc": "10:03.94",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ryley Fick",
+    "age": null,
+    "college": "Long Beach State",
+    "fk": "",
+    "sc": "10:04.03",
+    "tenk": "",
+    "events": "",
+    "ig": "ryleyfick"
+  },
+  {
+    "name": "Katie Castelli",
+    "age": null,
+    "college": "Santa Clara / Ohio State",
+    "fk": "",
+    "sc": "10:04.32",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hayleigh Haid",
+    "age": null,
+    "college": "Jacksonville",
+    "fk": "",
+    "sc": "10:04.34",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Madison Seiler",
+    "age": null,
+    "college": "Kennesaw State",
+    "fk": "",
+    "sc": "10:04.36",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kiera Bothwell",
+    "age": null,
+    "college": "Virginia / Georgetown",
+    "fk": "",
+    "sc": "10:04.39",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sarah Trainor",
+    "age": 23,
+    "college": "North Carolina / Connecticut",
+    "fk": "",
+    "sc": "10:04.84",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alessandra Zaffina",
+    "age": null,
+    "college": "Quinnipiac",
+    "fk": "",
+    "sc": "10:05.69",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Azza Borovicka-Swanson",
+    "age": null,
+    "college": "Northeastern",
+    "fk": "",
+    "sc": "10:05.90",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hannah Stewart",
+    "age": null,
+    "college": "Kansas State",
+    "fk": "",
+    "sc": "10:06.01",
+    "tenk": "",
+    "events": "",
+    "ig": "hannahstewartt"
+  },
+  {
+    "name": "Evie Miller",
+    "age": null,
+    "college": "Trine",
+    "fk": "",
+    "sc": "10:06.26",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Faith Demars",
+    "age": 23,
+    "college": "Penn State",
+    "fk": "15:44.98",
+    "sc": "10:06.27",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Chase Kappeler",
+    "age": 24,
+    "college": "Virginia Tech",
+    "fk": "",
+    "sc": "10:06.28",
+    "tenk": "",
+    "events": "",
+    "ig": "chasevkappeler"
+  },
+  {
+    "name": "Madey Dickson",
+    "age": 30,
+    "college": "BYU",
+    "fk": "",
+    "sc": "10:06.31",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katrina Schlenker",
+    "age": null,
+    "college": "Liberty",
+    "fk": "",
+    "sc": "10:06.44",
+    "tenk": "",
+    "events": "",
+    "ig": "katrinaschlenk"
+  },
+  {
+    "name": "Lilly Walters",
+    "age": null,
+    "college": "Alabama",
+    "fk": "",
+    "sc": "10:06.71",
+    "tenk": "",
+    "events": "",
+    "ig": "lillyywalters"
+  },
+  {
+    "name": "Corinne Fitzgerald",
+    "age": 34,
+    "college": "East Stroudsburg",
+    "fk": "",
+    "sc": "10:06.80",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Morgan Hykes",
+    "age": 25,
+    "college": "Adams State",
+    "fk": "",
+    "sc": "10:06.83",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Grace Driskill",
+    "age": null,
+    "college": "Arizona / Georgia Tech",
+    "fk": "",
+    "sc": "10:06.86",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ashley Reeck",
+    "age": null,
+    "college": "Western Washington / Idaho State",
+    "fk": "",
+    "sc": "10:06.91",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mackenzie Rogers",
+    "age": 22,
+    "college": "Arkansas / Utah",
+    "fk": "",
+    "sc": "10:06.95",
+    "tenk": "",
+    "events": "",
+    "ig": "kenzerogers14"
+  },
+  {
+    "name": "Sophie Bull",
+    "age": null,
+    "college": "Calvin",
+    "fk": "",
+    "sc": "10:07.18",
+    "tenk": "",
+    "events": "",
+    "ig": "sophienbull"
+  },
+  {
+    "name": "Kelly Iocca",
+    "age": null,
+    "college": "Rhode Island / Albany",
+    "fk": "",
+    "sc": "10:07.30",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Annasophia Keller",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "",
+    "sc": "10:07.42",
+    "tenk": "",
+    "events": "",
+    "ig": "annasophiakellerarroyo"
+  },
+  {
+    "name": "Alexis Allen",
+    "age": null,
+    "college": "Princeton / Notre Dame",
+    "fk": "",
+    "sc": "10:07.71",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Barrett Justema",
+    "age": null,
+    "college": "Georgetown",
+    "fk": "15:43.86",
+    "sc": "10:07.78",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mary Hennelly",
+    "age": null,
+    "college": "Georgetown",
+    "fk": "",
+    "sc": "10:08.34",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Marissa D'Atri",
+    "age": null,
+    "college": "San Diego State / Chico State",
+    "fk": "",
+    "sc": "10:08.68",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sierra Wall",
+    "age": null,
+    "college": "Colorado School of Mines",
+    "fk": "",
+    "sc": "10:08.83",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mia Kane",
+    "age": null,
+    "college": "UCLA",
+    "fk": "",
+    "sc": "10:08.95",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Elia Ton-That",
+    "age": null,
+    "college": "Columbia",
+    "fk": "",
+    "sc": "10:09.06",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hannah Brookover",
+    "age": 28,
+    "college": "Florida / Wake Forest / High Point",
+    "fk": "",
+    "sc": "10:09.14",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Isabelle Goldstein",
+    "age": null,
+    "college": "Harvard / Wake Forest",
+    "fk": "",
+    "sc": "10:09.41",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Rosie Mucharsky",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "",
+    "sc": "10:09.48",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alyssa Hendrix",
+    "age": null,
+    "college": "NC State / High Point",
+    "fk": "",
+    "sc": "10:09.64",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Brooke Mullins",
+    "age": null,
+    "college": "Drake / Florida State",
+    "fk": "",
+    "sc": "10:09.84",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Tula Fawbush",
+    "age": null,
+    "college": "Tennessee",
+    "fk": "",
+    "sc": "10:10.18",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Claire Fuhlhage",
+    "age": null,
+    "college": "UMKC / Illinois State",
+    "fk": "",
+    "sc": "10:10.21",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Nelah Roberts",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:43.07",
+    "sc": "10:10.31",
+    "tenk": "32:47.57",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sam Poglitsch",
+    "age": null,
+    "college": "Illinois",
+    "fk": "",
+    "sc": "10:10.52",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Allie Warner",
+    "age": null,
+    "college": "BYU / Utah Valley",
+    "fk": "",
+    "sc": "10:10.67",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Haley Anderson",
+    "age": null,
+    "college": "",
+    "fk": "",
+    "sc": "10:10.69",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mercy Biwott",
+    "age": null,
+    "college": "Iowa Western CC / UT Arlington",
+    "fk": "",
+    "sc": "10:10.99",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hannah Ielfield",
+    "age": null,
+    "college": "Ole Miss / Toledo",
+    "fk": "",
+    "sc": "10:11.31",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Madi Moffitt",
+    "age": null,
+    "college": "BYU",
+    "fk": "",
+    "sc": "10:11.32",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mattison Plummer",
+    "age": null,
+    "college": "Illinois State",
+    "fk": "",
+    "sc": "10:11.55",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Madeleine King",
+    "age": null,
+    "college": "Ole Miss / Notre Dame",
+    "fk": "",
+    "sc": "10:11.78",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hannah Miller",
+    "age": null,
+    "college": "Elon",
+    "fk": "",
+    "sc": "10:11.96",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ila Davis",
+    "age": null,
+    "college": "Western Washington",
+    "fk": "",
+    "sc": "10:11.97",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Allison Beasley",
+    "age": null,
+    "college": "Western Colorado",
+    "fk": "",
+    "sc": "10:12.21",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Madison Surber",
+    "age": null,
+    "college": "Oklahoma State",
+    "fk": "",
+    "sc": "10:12.22",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katie Struthers",
+    "age": null,
+    "college": "Utah State",
+    "fk": "",
+    "sc": "10:12.29",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Addie Meldrum",
+    "age": null,
+    "college": "BYU",
+    "fk": "",
+    "sc": "10:12.44",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Helen Shearer",
+    "age": null,
+    "college": "Army West Point / Maine",
+    "fk": "",
+    "sc": "10:12.53",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Melissa George",
+    "age": null,
+    "college": "N/A (post-collegiate)",
+    "fk": "",
+    "sc": "10:12.63",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emily Chaston",
+    "age": 24,
+    "college": "Colorado State",
+    "fk": "",
+    "sc": "10:12.82",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Maria Mitchell",
+    "age": null,
+    "college": "Grand Valley State",
+    "fk": "",
+    "sc": "10:12.92",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alexa Leppelmeier",
+    "age": null,
+    "college": "Walsh",
+    "fk": "",
+    "sc": "10:12.93",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katie Vitou",
+    "age": 25,
+    "college": "Miami (OH)",
+    "fk": "",
+    "sc": "10:13.02",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Erin Jaskot",
+    "age": 29,
+    "college": "Villanova / Mount St. Mary's",
+    "fk": "",
+    "sc": "10:13.08",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Annie Miller",
+    "age": null,
+    "college": "Furman",
+    "fk": "",
+    "sc": "10:13.12",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Elizabeth Coe",
+    "age": null,
+    "college": "Virginia Tech",
+    "fk": "",
+    "sc": "10:13.17",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hayleigh Palotti",
+    "age": null,
+    "college": "Jacksonville",
+    "fk": "",
+    "sc": "10:13.26",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Natalie Graber",
+    "age": null,
+    "college": "Grand Valley State",
+    "fk": "",
+    "sc": "10:13.41",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Bailey Wall",
+    "age": null,
+    "college": "Southern Idaho",
+    "fk": "",
+    "sc": "10:13.42",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Megan Johnson",
+    "age": null,
+    "college": "Central College / Oklahoma",
+    "fk": "",
+    "sc": "10:13.46",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Hannah Pricco",
+    "age": null,
+    "college": "Michigan",
+    "fk": "",
+    "sc": "10:13.53",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Julia Abell",
+    "age": null,
+    "college": "Texas A&M",
+    "fk": "",
+    "sc": "10:13.74",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Victoria Rodriguez",
+    "age": null,
+    "college": "Wake Forest",
+    "fk": "",
+    "sc": "10:13.77",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Anya Turner",
+    "age": null,
+    "college": "Northern Colorado / Central Michigan",
+    "fk": "",
+    "sc": "10:13.78",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Amanda Montplaisir",
+    "age": null,
+    "college": "Minnesota State Mankato",
+    "fk": "",
+    "sc": "10:14.05",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Abby Jensen",
+    "age": null,
+    "college": "Utah State",
+    "fk": "",
+    "sc": "10:14.07",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katie Hamilton",
+    "age": null,
+    "college": "Duke",
+    "fk": "",
+    "sc": "10:14.17",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sheridan Wheeler",
+    "age": null,
+    "college": "Iowa State",
+    "fk": "",
+    "sc": "10:14.27",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kathryn Nohilly",
+    "age": null,
+    "college": "George Washington / Florida",
+    "fk": "",
+    "sc": "10:14.29",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Elise Wright",
+    "age": null,
+    "college": "Wake Forest",
+    "fk": "",
+    "sc": "10:14.31",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Tatum Miller",
+    "age": null,
+    "college": "Portland State / Oregon / Walsh",
+    "fk": "",
+    "sc": "10:14.62",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emily Lamena",
+    "age": null,
+    "college": "Colorado School of Mines",
+    "fk": "",
+    "sc": "10:14.67",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Marie Hostetler",
+    "age": null,
+    "college": "Liberty",
+    "fk": "",
+    "sc": "10:14.75",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Winter Boese",
+    "age": null,
+    "college": "Navy",
+    "fk": "",
+    "sc": "10:14.85",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alicia Monson",
+    "age": 27,
+    "college": "Wisconsin",
+    "fk": "14:19.45",
+    "sc": "",
+    "tenk": "30:03.82",
+    "events": "5K '23 '25, 10K '22 '23 '24",
+    "ig": "monsonalicia"
+  },
+  {
+    "name": "Josette Andrews",
+    "age": 30,
+    "college": "Georgetown",
+    "fk": "14:25.37",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '22 '23 '24 '25",
+    "ig": "josettenorris",
+    "maiden": "n\u00e9e Norris"
+  },
+  {
+    "name": "Elle St. Pierre",
+    "age": 31,
+    "college": "New Hampshire",
+    "fk": "14:34.12",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '22 '24",
+    "ig": "elleruns_4_her_life",
+    "maiden": "n\u00e9e Purrier"
+  },
+  {
+    "name": "Weini Kelati",
+    "age": 29,
+    "college": "New Mexico",
+    "fk": "14:35.43",
+    "sc": "",
+    "tenk": "30:33.82",
+    "events": "5K '22 '23 '25, 10K '22 '23 '24 '25",
+    "ig": "weini_kelati"
+  },
+  {
+    "name": "Karissa Schweizer",
+    "age": 29,
+    "college": "Missouri",
+    "fk": "14:36.88",
+    "sc": "",
+    "tenk": "30:18.05",
+    "events": "5K '22 '23 '24 '25, 10K '22 '23 '24 '25",
+    "ig": "karissaschweiz4"
+  },
+  {
+    "name": "Elise Cranny",
+    "age": 29,
+    "college": "Stanford",
+    "fk": "14:40.36",
+    "sc": "",
+    "tenk": "30:14.66",
+    "events": "5K '22 '23 '24 '25, 10K '23 '25",
+    "ig": "elise.cranny"
+  },
+  {
+    "name": "Jane Hedengren",
+    "age": 19,
+    "college": "BYU",
+    "fk": "14:44.79",
+    "sc": "",
+    "tenk": "30:46.80",
+    "events": "",
+    "ig": "janehedengren"
+  },
+  {
+    "name": "Shelby Houlihan",
+    "age": 33,
+    "college": "Arizona State",
+    "fk": "14:45.29",
+    "sc": "",
+    "tenk": "30:50.10",
+    "events": "5K '25",
+    "ig": "shelbo800"
+  },
+  {
+    "name": "Emily Mackay",
+    "age": 27,
+    "college": "Binghamton",
+    "fk": "14:45.81",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '25",
+    "ig": "emily_mac7"
+  },
+  {
+    "name": "Elly Henes",
+    "age": 27,
+    "college": "NC State",
+    "fk": "14:47.15",
+    "sc": "",
+    "tenk": "30:48.26",
+    "events": "5K '22 '23 '25, 10K '24 '25",
+    "ig": "_ellyphant_"
+  },
+  {
+    "name": "Whittni Morgan",
+    "age": 28,
+    "college": "BYU",
+    "fk": "14:48.41",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '22 '23 '24",
+    "ig": "whittniomorgan_",
+    "maiden": "n\u00e9e Orton"
+  },
+  {
+    "name": "Bailey Hertenstein",
+    "age": 26,
+    "college": "Indiana",
+    "fk": "14:48.91",
+    "sc": "",
+    "tenk": "31:53.26",
+    "events": "5K '24 '25",
+    "ig": "baileyh_"
+  },
+  {
+    "name": "Taylor Roe",
+    "age": 25,
+    "college": "Oklahoma State",
+    "fk": "14:49.91",
+    "sc": "",
+    "tenk": "30:58.66",
+    "events": "5K '24 '25, 10K '25",
+    "ig": "taylor.roe_"
+  },
+  {
+    "name": "Ella Donaghu",
+    "age": 28,
+    "college": "Stanford",
+    "fk": "14:50.89",
+    "sc": "",
+    "tenk": "31:32.93",
+    "events": "5K '22 '24 '25",
+    "ig": "elladonaghu"
+  },
+  {
+    "name": "Emily Infeld",
+    "age": 36,
+    "college": "Georgetown",
+    "fk": "14:50.90",
+    "sc": "",
+    "tenk": "30:59.38",
+    "events": "5K '22 '23 '24 '25, 10K '22 '25",
+    "ig": "emilyinfeld"
+  },
+  {
+    "name": "Parker Valby",
+    "age": 23,
+    "college": "Florida",
+    "fk": "14:51.44",
+    "sc": "",
+    "tenk": "30:50.43",
+    "events": "5K '24, 10K '24",
+    "ig": "parkervalby"
+  },
+  {
+    "name": "Natosha Rogers",
+    "age": 34,
+    "college": "Texas A&M",
+    "fk": "14:52.21",
+    "sc": "",
+    "tenk": "30:48.69",
+    "events": "5K '22 '23 '24, 10K '22 '23 '24",
+    "ig": "natosha_rogers"
+  },
+  {
+    "name": "Grace Hartman",
+    "age": 22,
+    "college": "NC State",
+    "fk": "14:58.11",
+    "sc": "",
+    "tenk": "31:20.60",
+    "events": "5K '24",
+    "ig": "grace.hartman7"
+  },
+  {
+    "name": "Emily Venters",
+    "age": 26,
+    "college": "Utah",
+    "fk": "14:58.77",
+    "sc": "",
+    "tenk": "31:48.35",
+    "events": "5K '25, 10K '23",
+    "ig": "ventersemily"
+  },
+  {
+    "name": "Riley Chamberlain",
+    "age": null,
+    "college": "BYU",
+    "fk": "14:58.97",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "riley_chamberlain04"
+  },
+  {
+    "name": "Allie Buchalski",
+    "age": 31,
+    "college": "Furman",
+    "fk": "15:00.79",
+    "sc": "",
+    "tenk": "31:29.06",
+    "events": "5K '22 '23 '24 '25",
+    "ig": "abuchalski"
+  },
+  {
+    "name": "Amanda Vestri",
+    "age": 26,
+    "college": "Syracuse",
+    "fk": "15:01.22",
+    "sc": "",
+    "tenk": "31:10.53",
+    "events": "10K '23 '24 '25",
+    "ig": "a_vestri"
+  },
+  {
+    "name": "Fiona O'Keeffe",
+    "age": 27,
+    "college": "Stanford",
+    "fk": "15:01.34",
+    "sc": "",
+    "tenk": "30:52.77",
+    "events": "5K '22, 10K '23",
+    "ig": "fiona_okeeffe"
+  },
+  {
+    "name": "Sydney Vaught",
+    "age": 23,
+    "college": "Arkansas",
+    "fk": "15:02.52",
+    "sc": "",
+    "tenk": "32:21.37",
+    "events": "",
+    "ig": "sydney_vaught_"
+  },
+  {
+    "name": "Katelyn Tuohy",
+    "age": 24,
+    "college": "NC State",
+    "fk": "15:03.12",
+    "sc": "",
+    "tenk": "32:56.75",
+    "events": "5K '22 '23 '24 '25",
+    "ig": "katelyntuohy"
+  },
+  {
+    "name": "Taylor Werner",
+    "age": 27,
+    "college": "Arkansas",
+    "fk": "15:03.13",
+    "sc": "",
+    "tenk": "32:47.53",
+    "events": "5K '23",
+    "ig": "tdub16werner"
+  },
+  {
+    "name": "Abby Nichols",
+    "age": 29,
+    "college": "Colorado",
+    "fk": "15:03.14",
+    "sc": "",
+    "tenk": "31:52.94",
+    "events": "5K '22 '23 '24, 10K '25",
+    "ig": "abby_nichols131"
+  },
+  {
+    "name": "Margot Appleton",
+    "age": null,
+    "college": "Virginia",
+    "fk": "15:03.19",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "margotappleton"
+  },
+  {
+    "name": "Rachel Smith",
+    "age": 34,
+    "college": "Georgetown",
+    "fk": "15:03.24",
+    "sc": "",
+    "tenk": "31:04.02",
+    "events": "5K '24, 10K '24",
+    "ig": "rachschneid18",
+    "maiden": "n\u00e9e Schneider"
+  },
+  {
+    "name": "Vanessa Fraser",
+    "age": 30,
+    "college": "Stanford",
+    "fk": "15:05.04",
+    "sc": "",
+    "tenk": "31:52.11",
+    "events": "5K '22, 10K '23 '25",
+    "ig": "nessafraser"
+  },
+  {
+    "name": "Lucy Jenks",
+    "age": null,
+    "college": "Stanford / Georgetown",
+    "fk": "15:05.29",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '25",
+    "ig": "lucyjenks_",
+    "maiden": "n\u00e9e Nodler"
+  },
+  {
+    "name": "Chloe Scrimgeour",
+    "age": 22,
+    "college": "Georgetown",
+    "fk": "15:05.40",
+    "sc": "",
+    "tenk": "31:41.68",
+    "events": "5K '24",
+    "ig": ""
+  },
+  {
+    "name": "Katie Camarena",
+    "age": 28,
+    "college": "UCSB / Portland State",
+    "fk": "15:05.44",
+    "sc": "",
+    "tenk": "31:45.79",
+    "events": "5K '23 '24 '25, 10K '24 '25",
+    "ig": "katieecamarena"
+  },
+  {
+    "name": "Bethany Hasz",
+    "age": 28,
+    "college": "Minnesota",
+    "fk": "15:05.80",
+    "sc": "",
+    "tenk": "32:46.83",
+    "events": "5K '23 '24",
+    "ig": "bethanyhasz"
+  },
+  {
+    "name": "Taryn Rawlings",
+    "age": 29,
+    "college": "Portland",
+    "fk": "15:05.94",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '22",
+    "ig": ""
+  },
+  {
+    "name": "Amaris Tyynismaa",
+    "age": 25,
+    "college": "Alabama / NC State",
+    "fk": "15:06.69",
+    "sc": "",
+    "tenk": "32:52.92",
+    "events": "5K '25",
+    "ig": "amaris_tyynismaa"
+  },
+  {
+    "name": "Emily Lipari",
+    "age": 33,
+    "college": "Villanova",
+    "fk": "15:07.22",
+    "sc": "",
+    "tenk": "31:19.72",
+    "events": "5K '22 '23, 10K '22 '24",
+    "ig": "classicemilyl"
+  },
+  {
+    "name": "Sophia Kennedy",
+    "age": 21,
+    "college": "Stanford",
+    "fk": "15:07.77",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '25",
+    "ig": "sophiakennedy11"
+  },
+  {
+    "name": "Elise Stearns",
+    "age": 25,
+    "college": "Northern Arizona",
+    "fk": "15:08.07",
+    "sc": "",
+    "tenk": "32:33.18",
+    "events": "5K '25",
+    "ig": "elisestearns"
+  },
+  {
+    "name": "Heather MacLean",
+    "age": 30,
+    "college": "UMass",
+    "fk": "15:08.72",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "heather_maclean31"
+  },
+  {
+    "name": "Katie Wasserman",
+    "age": 28,
+    "college": "Columbia / Notre Dame",
+    "fk": "15:08.72",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '23 '24",
+    "ig": "katie_wass"
+  },
+  {
+    "name": "Jessica McClain",
+    "age": 34,
+    "college": "Stanford",
+    "fk": "15:09.50",
+    "sc": "",
+    "tenk": "30:59.71",
+    "events": "10K '24 '25",
+    "ig": "jesstonn",
+    "maiden": "n\u00e9e Tonn"
+  },
+  {
+    "name": "Sarah Lancaster",
+    "age": 38,
+    "college": "N/A (post-collegiate)",
+    "fk": "15:09.59",
+    "sc": "",
+    "tenk": "31:21.75",
+    "events": "5K '22, 10K '22",
+    "ig": "catscratchasian"
+  },
+  {
+    "name": "Katie Izzo",
+    "age": 29,
+    "college": "Cal Poly / Arkansas",
+    "fk": "15:10.75",
+    "sc": "",
+    "tenk": "32:22.47",
+    "events": "5K '22 '23 '25, 10K '24 '25",
+    "ig": "katieizzo"
+  },
+  {
+    "name": "Abbey Cooper",
+    "age": 33,
+    "college": "Dartmouth",
+    "fk": "15:11.15",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '24",
+    "ig": "abbey_dags",
+    "maiden": "n\u00e9e D'Agostino"
+  },
+  {
+    "name": "Paityn Noe",
+    "age": 21,
+    "college": "Arkansas",
+    "fk": "15:11.27",
+    "sc": "",
+    "tenk": "31:36.91",
+    "events": "",
+    "ig": "noepaityn"
+  },
+  {
+    "name": "Ednah Kurgat",
+    "age": 34,
+    "college": "Liberty / New Mexico",
+    "fk": "15:11.30",
+    "sc": "",
+    "tenk": "31:12.10",
+    "events": "5K '22 '23, 10K '22 '23",
+    "ig": "ednah_kurgat"
+  },
+  {
+    "name": "Mary Dalton",
+    "age": 20,
+    "college": "Notre Dame",
+    "fk": "15:11.31",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "mb.dalton"
+  },
+  {
+    "name": "Maggie Montoya",
+    "age": 30,
+    "college": "Baylor",
+    "fk": "15:15.52",
+    "sc": "",
+    "tenk": "31:54.34",
+    "events": "5K '24, 10K '24",
+    "ig": "maggie_montoya"
+  },
+  {
+    "name": "Jenna Hutchins",
+    "age": 22,
+    "college": "BYU",
+    "fk": "15:15.76",
+    "sc": "",
+    "tenk": "32:01.02",
+    "events": "",
+    "ig": "provo_jenna"
+  },
+  {
+    "name": "Maddy Elmore",
+    "age": null,
+    "college": "Oregon",
+    "fk": "15:15.79",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "maddyelmore"
+  },
+  {
+    "name": "Eleanor Fulton",
+    "age": 32,
+    "college": "Washington",
+    "fk": "15:15.82",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '22",
+    "ig": "eleanor_fulton"
+  },
+  {
+    "name": "Paige Stoner",
+    "age": 30,
+    "college": "Syracuse",
+    "fk": "15:16.21",
+    "sc": "",
+    "tenk": "31:22.55",
+    "events": "10K '22",
+    "ig": "paigestoner11"
+  },
+  {
+    "name": "Lauren Hurley",
+    "age": null,
+    "college": "Clemson",
+    "fk": "15:16.33",
+    "sc": "",
+    "tenk": "31:49.46",
+    "events": "",
+    "ig": "laurengoss",
+    "maiden": "n\u00e9e Goss"
+  },
+  {
+    "name": "Rylee Blade",
+    "age": null,
+    "college": "Florida State",
+    "fk": "15:16.72",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "rylee.blade_"
+  },
+  {
+    "name": "Alyson Churchill",
+    "age": 23,
+    "college": "Florida State / Northern Arizona",
+    "fk": "15:17.20",
+    "sc": "",
+    "tenk": "32:20.70",
+    "events": "",
+    "ig": "alysonchurchill"
+  },
+  {
+    "name": "Annika Reiss",
+    "age": null,
+    "college": "Northern Arizona",
+    "fk": "15:17.31",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "annikareiss"
+  },
+  {
+    "name": "Rachel McArthur",
+    "age": 26,
+    "college": "Villanova / Colorado",
+    "fk": "15:17.90",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "rachelmcarthur_"
+  },
+  {
+    "name": "Lauren Gregory",
+    "age": 26,
+    "college": "Arkansas",
+    "fk": "15:17.99",
+    "sc": "",
+    "tenk": "32:34.21",
+    "events": "5K '24",
+    "ig": "lgeeeeezy"
+  },
+  {
+    "name": "Hannah Steelman",
+    "age": 26,
+    "college": "Wofford / NC State",
+    "fk": "15:19.69",
+    "sc": "",
+    "tenk": "33:28.85",
+    "events": "5K '23 '24",
+    "ig": "hannahsteelman_"
+  },
+  {
+    "name": "Erika Kemp",
+    "age": 31,
+    "college": "NC State",
+    "fk": "15:20.29",
+    "sc": "",
+    "tenk": "31:28.69",
+    "events": "10K '24",
+    "ig": "imtinyrik"
+  },
+  {
+    "name": "Molly Born",
+    "age": 26,
+    "college": "Oklahoma State",
+    "fk": "15:20.89",
+    "sc": "",
+    "tenk": "32:42.93",
+    "events": "5K '24",
+    "ig": "born_molly"
+  },
+  {
+    "name": "Rosina Machu",
+    "age": null,
+    "college": "Gonzaga",
+    "fk": "15:21.19",
+    "sc": "",
+    "tenk": "32:15.49",
+    "events": "10K '25",
+    "ig": "rosina.machu"
+  },
+  {
+    "name": "Kellyn Taylor",
+    "age": 39,
+    "college": "Wichita State",
+    "fk": "15:21.56",
+    "sc": "",
+    "tenk": "32:12.02",
+    "events": "10K '24",
+    "ig": "kellyn_taylor",
+    "maiden": "n\u00e9e Johnson"
+  },
+  {
+    "name": "Ava Mitchell",
+    "age": null,
+    "college": "Northern Arizona",
+    "fk": "15:22.13",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "avamitchell_co"
+  },
+  {
+    "name": "Molly Grabill",
+    "age": 33,
+    "college": "Oregon",
+    "fk": "15:22.97",
+    "sc": "",
+    "tenk": "31:49.01",
+    "events": "10K '22",
+    "ig": "mollyjgrabill"
+  },
+  {
+    "name": "Natalie Cook",
+    "age": null,
+    "college": "Oklahoma State / Colorado",
+    "fk": "15:24.26",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "nataliecook101"
+  },
+  {
+    "name": "Jacey Farmer",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:24.46",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Taylor Rohatinsky",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:24.75",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "taylor_roho"
+  },
+  {
+    "name": "Katrina Coogan",
+    "age": 32,
+    "college": "Georgetown",
+    "fk": "15:24.83",
+    "sc": "",
+    "tenk": "31:37.85",
+    "events": "5K '22, 10K '24 '25",
+    "ig": "coogs93"
+  },
+  {
+    "name": "Anna Camp Bennett",
+    "age": 28,
+    "college": "BYU",
+    "fk": "15:24.95",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "annac.bennett",
+    "maiden": "n\u00e9e Camp"
+  },
+  {
+    "name": "Sam Bush",
+    "age": 25,
+    "college": "NC State",
+    "fk": "15:25.00",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "sambush1"
+  },
+  {
+    "name": "Jennifer Randall",
+    "age": 34,
+    "college": "Ithaca College",
+    "fk": "15:25.13",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '24",
+    "ig": "jenniferr.randall"
+  },
+  {
+    "name": "Elizabeth Leachman",
+    "age": 18,
+    "college": "Stanford (incoming)",
+    "fk": "15:25.27",
+    "sc": "",
+    "tenk": "",
+    "events": "5K '24",
+    "ig": ""
+  },
+  {
+    "name": "Susanna Sullivan",
+    "age": 35,
+    "college": "Notre Dame",
+    "fk": "15:25.94",
+    "sc": "",
+    "tenk": "31:55.80",
+    "events": "10K '22 '24",
+    "ig": "susannasullivan4"
+  },
+  {
+    "name": "Jenna Magness",
+    "age": null,
+    "college": "Michigan State",
+    "fk": "15:26.21",
+    "sc": "",
+    "tenk": "32:59.96",
+    "events": "5K '22",
+    "ig": "jennamagness"
+  },
+  {
+    "name": "Mackenzie Doyle",
+    "age": null,
+    "college": "Providence",
+    "fk": "15:27.42",
+    "sc": "",
+    "tenk": "33:21.23",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kelsey Chmiel",
+    "age": 24,
+    "college": "NC State",
+    "fk": "15:27.83",
+    "sc": "",
+    "tenk": "32:55.19",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Aliandrea Upshaw",
+    "age": null,
+    "college": "Northern Arizona / New Mexico",
+    "fk": "15:27.86",
+    "sc": "",
+    "tenk": "32:22.42",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Danielle Shanahan",
+    "age": null,
+    "college": "Loyola Marymount",
+    "fk": "15:28.04",
+    "sc": "",
+    "tenk": "32:28.31",
+    "events": "",
+    "ig": "danishani"
+  },
+  {
+    "name": "Brighter Jepchumba",
+    "age": null,
+    "college": "Eastern Kentucky",
+    "fk": "15:28.09",
+    "sc": "",
+    "tenk": "32:40.65",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Savannah Shaw",
+    "age": 26,
+    "college": "NC State",
+    "fk": "15:28.10",
+    "sc": "",
+    "tenk": "32:41.69",
+    "events": "5K '24, 10K '25",
+    "ig": "alldayrunning"
+  },
+  {
+    "name": "Maddie Alm",
+    "age": 33,
+    "college": "Colorado",
+    "fk": "15:29.28",
+    "sc": "",
+    "tenk": "32:01.28",
+    "events": "5K '23, 10K '22",
+    "ig": "madsalm12"
+  },
+  {
+    "name": "Carrie Verdon",
+    "age": 32,
+    "college": "Colorado",
+    "fk": "15:29.47",
+    "sc": "",
+    "tenk": "31:37.26",
+    "events": "10K '22 '24",
+    "ig": "carrie.ellwoody"
+  },
+  {
+    "name": "Marielle Hall",
+    "age": 34,
+    "college": "Texas",
+    "fk": "15:29.80",
+    "sc": "",
+    "tenk": "31:58.88",
+    "events": "10K '22",
+    "ig": "mariellehalll"
+  },
+  {
+    "name": "Amaya Aramini",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "15:30.39",
+    "sc": "",
+    "tenk": "32:33.77",
+    "events": "10K '23",
+    "ig": "amaya.aramini"
+  },
+  {
+    "name": "Claire Green",
+    "age": 29,
+    "college": "Arizona",
+    "fk": "15:30.46",
+    "sc": "",
+    "tenk": "31:49.29",
+    "events": "5K '24, 10K '25",
+    "ig": "claireggreen"
+  },
+  {
+    "name": "Yazmine Wright",
+    "age": null,
+    "college": "Wichita State / Oklahoma",
+    "fk": "15:30.60",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Jessica Secor",
+    "age": null,
+    "college": "Tennessee",
+    "fk": "15:30.66",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Brianna Robles",
+    "age": 26,
+    "college": "Adams State",
+    "fk": "15:30.84",
+    "sc": "",
+    "tenk": "32:50.06",
+    "events": "",
+    "ig": "brianna.robles_"
+  },
+  {
+    "name": "Elena Hayday",
+    "age": null,
+    "college": "Minnesota",
+    "fk": "15:30.94",
+    "sc": "",
+    "tenk": "32:31.41",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Grace Moore",
+    "age": null,
+    "college": "Temple",
+    "fk": "15:30.98",
+    "sc": "",
+    "tenk": "33:09.44",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ali Weimer",
+    "age": null,
+    "college": "Minnesota",
+    "fk": "15:31.13",
+    "sc": "",
+    "tenk": "32:42.31",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Haley Herberg",
+    "age": null,
+    "college": "Oklahoma / Washington",
+    "fk": "15:31.14",
+    "sc": "",
+    "tenk": "32:34.67",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Morgan Nokes",
+    "age": null,
+    "college": "Utah State / Utah Valley",
+    "fk": "15:31.20",
+    "sc": "",
+    "tenk": "32:20.03",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Allie Schadler",
+    "age": null,
+    "college": "Washington",
+    "fk": "15:31.29",
+    "sc": "",
+    "tenk": "32:56.80",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Makenna Myler",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:31.32",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "benzmakenz"
+  },
+  {
+    "name": "Aubrey Frentheway",
+    "age": null,
+    "college": "BYU",
+    "fk": "15:31.69",
+    "sc": "",
+    "tenk": "32:28.85",
+    "events": "",
+    "ig": "aubreymarie.f"
+  },
+  {
+    "name": "Katherine Bohlke",
+    "age": null,
+    "college": "Virginia Tech",
+    "fk": "15:31.85",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Olivia Pratt",
+    "age": 32,
+    "college": "Butler",
+    "fk": "15:32.16",
+    "sc": "",
+    "tenk": "31:57.01",
+    "events": "10K '22 '24",
+    "ig": "olivia.g.pratt"
+  },
+  {
+    "name": "Angelina Perez",
+    "age": 21,
+    "college": "Florida / Wake Forest",
+    "fk": "15:32.20",
+    "sc": "",
+    "tenk": "32:45.71",
+    "events": "",
+    "ig": "_angelinaaperez_"
+  },
+  {
+    "name": "Abbey Wheeler",
+    "age": null,
+    "college": "Providence",
+    "fk": "15:32.81",
+    "sc": "",
+    "tenk": "32:53.50",
+    "events": "",
+    "ig": "a_wheelerr"
+  },
+  {
+    "name": "Samantha Nadel",
+    "age": null,
+    "college": "Georgetown / Oregon",
+    "fk": "15:32.96",
+    "sc": "",
+    "tenk": "32:28.87",
+    "events": "10K '23",
+    "ig": "samnadel"
+  },
+  {
+    "name": "Jenna Ramsey-Rutledge",
+    "age": null,
+    "college": "Emporia State / Colorado School of Mines",
+    "fk": "15:33.01",
+    "sc": "",
+    "tenk": "32:24.23",
+    "events": "",
+    "ig": "jenna.ramsey.rutledge"
+  },
+  {
+    "name": "Megan Sailor",
+    "age": null,
+    "college": "",
+    "fk": "15:33.48",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alexandra Hays",
+    "age": null,
+    "college": "NC State",
+    "fk": "15:33.84",
+    "sc": "",
+    "tenk": "32:21.13",
+    "events": "10K '23",
+    "ig": ""
+  },
+  {
+    "name": "Sydney Seymour",
+    "age": null,
+    "college": "Tennessee / NC State",
+    "fk": "15:34.01",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Abbe Goldstein",
+    "age": 26,
+    "college": "Harvard / New Mexico",
+    "fk": "15:34.15",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Anne-Marie Blaney",
+    "age": 32,
+    "college": "UCF",
+    "fk": "15:34.25",
+    "sc": "",
+    "tenk": "32:02.34",
+    "events": "10K '24",
+    "ig": "amblaney"
+  },
+  {
+    "name": "Erin Strzelecki",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "15:34.64",
+    "sc": "",
+    "tenk": "32:44.62",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alycia Cridebring",
+    "age": null,
+    "college": "UC Davis",
+    "fk": "15:34.79",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "a_cridebring"
+  },
+  {
+    "name": "Sophie Atkinson",
+    "age": null,
+    "college": "Virginia / Texas",
+    "fk": "15:35.33",
+    "sc": "",
+    "tenk": "33:29.46",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emily Covert",
+    "age": 25,
+    "college": "Notre Dame / Colorado",
+    "fk": "15:35.40",
+    "sc": "",
+    "tenk": "32:30.82",
+    "events": "",
+    "ig": "emilycovert_"
+  },
+  {
+    "name": "Isabel Van Camp",
+    "age": null,
+    "college": "Arkansas",
+    "fk": "15:35.64",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Stephanie Bruce",
+    "age": 42,
+    "college": "UC Santa Barbara",
+    "fk": "15:36.26",
+    "sc": "",
+    "tenk": "31:39.39",
+    "events": "10K '22 '24",
+    "ig": "stephrothstein",
+    "maiden": "n\u00e9e Rothstein"
+  },
+  {
+    "name": "Cailie Logue Hughes",
+    "age": 27,
+    "college": "Iowa State",
+    "fk": "15:36.40",
+    "sc": "",
+    "tenk": "32:21.54",
+    "events": "10K '25",
+    "ig": "cailie_logue"
+  },
+  {
+    "name": "Marlee Starliper",
+    "age": null,
+    "college": "NC State / Colorado",
+    "fk": "15:36.51",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Makena Morley",
+    "age": 29,
+    "college": "Colorado",
+    "fk": "15:36.59",
+    "sc": "",
+    "tenk": "31:59.44",
+    "events": "10K '22",
+    "ig": "makena_morley"
+  },
+  {
+    "name": "Abigail Hassman",
+    "age": null,
+    "college": "Northeastern",
+    "fk": "15:36.92",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kassie Parker",
+    "age": 26,
+    "college": "Loras College",
+    "fk": "15:37.00",
+    "sc": "",
+    "tenk": "32:36.22",
+    "events": "10K '23",
+    "ig": "kassie.parker19"
+  },
+  {
+    "name": "Amy Davis-Green",
+    "age": 29,
+    "college": "Wisconsin",
+    "fk": "15:37.09",
+    "sc": "",
+    "tenk": "32:05.78",
+    "events": "10K '24",
+    "ig": "ames_2153",
+    "maiden": "n\u00e9e Davis"
+  },
+  {
+    "name": "Annamaria Kostarellis",
+    "age": null,
+    "college": "Xavier / New Mexico / Baylor",
+    "fk": "15:37.41",
+    "sc": "",
+    "tenk": "32:10.96",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Amber Zimmerman",
+    "age": 33,
+    "college": "Tennessee / New Mexico",
+    "fk": "15:37.49",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "a.to_the.z"
+  },
+  {
+    "name": "Jaci Smith",
+    "age": null,
+    "college": "",
+    "fk": "15:37.57",
+    "sc": "",
+    "tenk": "32:21.98",
+    "events": "",
+    "ig": "jaci_me_rollin_"
+  },
+  {
+    "name": "Jenny Schilling",
+    "age": null,
+    "college": "Virginia",
+    "fk": "15:37.62",
+    "sc": "",
+    "tenk": "32:44.19",
+    "events": "",
+    "ig": "jennyyschilling"
+  },
+  {
+    "name": "Kylie Finger",
+    "age": null,
+    "college": "Wisconsin",
+    "fk": "15:38.23",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Brianna Weidler",
+    "age": null,
+    "college": "UC Davis",
+    "fk": "15:38.45",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katie Osika",
+    "age": null,
+    "college": "Michigan State",
+    "fk": "15:39.01",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Berlyn Schutz",
+    "age": null,
+    "college": "Nebraska",
+    "fk": "15:39.38",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Eva Jess",
+    "age": null,
+    "college": "Texas",
+    "fk": "15:39.51",
+    "sc": "",
+    "tenk": "32:50.28",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Elizabeth Pickett",
+    "age": null,
+    "college": "Texas",
+    "fk": "15:39.71",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Klaudia O'Malley",
+    "age": null,
+    "college": "Grand Valley State",
+    "fk": "15:40.11",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Calene Morris",
+    "age": null,
+    "college": "Cal Poly Pomona",
+    "fk": "15:40.15",
+    "sc": "",
+    "tenk": "32:58.84",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Anna Oeser",
+    "age": 26,
+    "college": "Boston College",
+    "fk": "15:40.34",
+    "sc": "",
+    "tenk": "33:14.06",
+    "events": "5K '23",
+    "ig": "annaa.oeser"
+  },
+  {
+    "name": "Tristian Spence",
+    "age": null,
+    "college": "Adams State",
+    "fk": "15:40.70",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "tristian_spence"
+  },
+  {
+    "name": "Mia Cochran",
+    "age": null,
+    "college": "Arkansas",
+    "fk": "15:40.96",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Brooke Rauber",
+    "age": null,
+    "college": "NC State",
+    "fk": "15:41.11",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Millie Wilcox",
+    "age": null,
+    "college": "Utah",
+    "fk": "15:41.16",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Emma Grace Hurley",
+    "age": 28,
+    "college": "Furman",
+    "fk": "15:41.25",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "emmagracehurley"
+  },
+  {
+    "name": "Lindsay Cunningham",
+    "age": null,
+    "college": "Winona State / Wisconsin",
+    "fk": "15:41.30",
+    "sc": "",
+    "tenk": "32:43.64",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Riley Stewart",
+    "age": null,
+    "college": "Stanford",
+    "fk": "15:41.45",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Selma Anderson",
+    "age": 19,
+    "college": "Syracuse",
+    "fk": "15:41.68",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Nicole Fegans",
+    "age": null,
+    "college": "Georgia Tech",
+    "fk": "15:41.98",
+    "sc": "",
+    "tenk": "33:00.89",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Dominique Clairmonte",
+    "age": null,
+    "college": "NC State",
+    "fk": "15:42.00",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "_dombomb"
+  },
+  {
+    "name": "Abbey Nechanicky",
+    "age": 19,
+    "college": "Colorado",
+    "fk": "15:42.12",
+    "sc": "",
+    "tenk": "32:23.93",
+    "events": "",
+    "ig": "abbeynechanicky"
+  },
+  {
+    "name": "Dana Giordano",
+    "age": 32,
+    "college": "Dartmouth",
+    "fk": "15:42.19",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "dana_gio"
+  },
+  {
+    "name": "Tilly O'Connor",
+    "age": 21,
+    "college": "Villanova",
+    "fk": "15:42.69",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "tillyoconnor_"
+  },
+  {
+    "name": "Ava Earl",
+    "age": 22,
+    "college": "Northwestern",
+    "fk": "15:42.72",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Tristin Van Ord",
+    "age": null,
+    "college": "Appalachian State",
+    "fk": "15:42.78",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "tristinvanord"
+  },
+  {
+    "name": "Jessica Gockley-Day",
+    "age": 28,
+    "college": "Grand Valley State",
+    "fk": "15:43.02",
+    "sc": "",
+    "tenk": "32:16.98",
+    "events": "10K '24 '25",
+    "ig": "jessica.j.day",
+    "maiden": "n\u00e9e Gockley"
+  },
+  {
+    "name": "Logan Hofstee",
+    "age": 19,
+    "college": "Gonzaga",
+    "fk": "15:43.03",
+    "sc": "",
+    "tenk": "32:21.15",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Brynn Brown",
+    "age": 22,
+    "college": "North Carolina",
+    "fk": "15:43.09",
+    "sc": "",
+    "tenk": "33:13.74",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Carlee Hansen",
+    "age": null,
+    "college": "North Carolina / BYU",
+    "fk": "15:43.54",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "02chansen"
+  },
+  {
+    "name": "Bethany Michalak",
+    "age": 19,
+    "college": "NC State",
+    "fk": "15:43.84",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "bethany.michalak"
+  },
+  {
+    "name": "Maggie Donahue",
+    "age": null,
+    "college": "Georgetown",
+    "fk": "15:43.98",
+    "sc": "",
+    "tenk": "33:05.56",
+    "events": "",
+    "ig": "maggie_donahue16"
+  },
+  {
+    "name": "Addie Engel",
+    "age": null,
+    "college": "Ohio State",
+    "fk": "15:44.02",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sarah Carter",
+    "age": null,
+    "college": "Washington / Colorado State",
+    "fk": "15:44.20",
+    "sc": "",
+    "tenk": "32:58.20",
+    "events": "",
+    "ig": "sarah_carter_xc"
+  },
+  {
+    "name": "Isabel Allori",
+    "age": 20,
+    "college": "Notre Dame",
+    "fk": "15:44.41",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "isabel.allori"
+  },
+  {
+    "name": "Tatiana Cornejo",
+    "age": null,
+    "college": "Cal Poly",
+    "fk": "15:44.59",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Colbi Borland",
+    "age": 22,
+    "college": "Lipscomb",
+    "fk": "15:44.74",
+    "sc": "",
+    "tenk": "",
+    "events": "",
+    "ig": "colbi_borland"
+  },
+  {
+    "name": "Sophia Toti",
+    "age": null,
+    "college": "Penn State",
+    "fk": "15:44.89",
+    "sc": "",
+    "tenk": "32:57.89",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Keira D'Amato",
+    "age": 41,
+    "college": "American University",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:05.31",
+    "events": "10K '24 '25",
+    "ig": "keiradamato"
+  },
+  {
+    "name": "Millie Paladino",
+    "age": null,
+    "college": "West Virginia / Providence",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:19.92",
+    "events": "10K '23",
+    "ig": "millieformiles"
+  },
+  {
+    "name": "Sara Hall",
+    "age": 42,
+    "college": "Stanford",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:32.52",
+    "events": "",
+    "ig": "sarahall3"
+  },
+  {
+    "name": "Emily Durgin",
+    "age": null,
+    "college": "UConn",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:33.83",
+    "events": "10K '22",
+    "ig": "em_durgin"
+  },
+  {
+    "name": "Caroline Sang",
+    "age": null,
+    "college": "UNC Charlotte",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:55.61",
+    "events": "10K '22",
+    "ig": ""
+  },
+  {
+    "name": "Jeralyn Poe",
+    "age": null,
+    "college": "Michigan State / NAU",
+    "fk": "",
+    "sc": "",
+    "tenk": "31:59.49",
+    "events": "10K '22",
+    "ig": ""
+  },
+  {
+    "name": "Laura Thweatt",
+    "age": 37,
+    "college": "Colorado",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:01.52",
+    "events": "",
+    "ig": "lthweatt"
+  },
+  {
+    "name": "Felicia Pasadyn",
+    "age": 23,
+    "college": "Harvard",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:04.17",
+    "events": "",
+    "ig": "feliciapasadyn"
+  },
+  {
+    "name": "Emma Bates",
+    "age": 33,
+    "college": "Boise State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:06.11",
+    "events": "",
+    "ig": "emmajanelbates"
+  },
+  {
+    "name": "Ruth White",
+    "age": 19,
+    "college": "New Hampshire",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:20.60",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Jacqueline Gaughan",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:24.82",
+    "events": "10K '23",
+    "ig": ""
+  },
+  {
+    "name": "Jessie Cardin",
+    "age": null,
+    "college": "Westfield State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:27.67",
+    "events": "",
+    "ig": "jes_jes6"
+  },
+  {
+    "name": "Mikayla Reed",
+    "age": 25,
+    "college": "Missouri",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:30.04",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Morgan Jensen",
+    "age": null,
+    "college": "Wisconsin-Eau Claire",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:33.52",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Andrea Markezich",
+    "age": null,
+    "college": "Washington / Notre Dame",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:36.16",
+    "events": "",
+    "ig": "amarkezich"
+  },
+  {
+    "name": "Billie Hatch",
+    "age": null,
+    "college": "Utah Tech / Weber State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:36.74",
+    "events": "",
+    "ig": "runwithbillie"
+  },
+  {
+    "name": "Mazzie Melaney",
+    "age": null,
+    "college": "Utah Valley",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:37.73",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "India Johnson",
+    "age": null,
+    "college": "Michigan State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:38.36",
+    "events": "10K '23",
+    "ig": "india_johnson72"
+  },
+  {
+    "name": "Hannah Branch",
+    "age": null,
+    "college": "Utah Valley",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:39.68",
+    "events": "10K '23",
+    "ig": "han.branch"
+  },
+  {
+    "name": "Lily Murphy",
+    "age": null,
+    "college": "Penn",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:40.92",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Micaela Rivera",
+    "age": null,
+    "college": "Utah State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:41.48",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mackenzie Caldwell",
+    "age": 29,
+    "college": "Colorado",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:41.63",
+    "events": "10K '23",
+    "ig": "mackenzieannc"
+  },
+  {
+    "name": "Eleanor Mancini",
+    "age": null,
+    "college": "La Salle",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:43.71",
+    "events": "",
+    "ig": "eleanormancini"
+  },
+  {
+    "name": "Annabel Stafford",
+    "age": null,
+    "college": "Colorado State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:45.14",
+    "events": "",
+    "ig": "annabelstafford99"
+  },
+  {
+    "name": "Annastasia Peters",
+    "age": 21,
+    "college": "Utah",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:45.80",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ella Chesnut",
+    "age": 21,
+    "college": "LSU",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:46.56",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mackenna Curtis-Collins",
+    "age": null,
+    "college": "Malone / Wake Forest",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.14",
+    "events": "",
+    "ig": "_mackenna"
+  },
+  {
+    "name": "Emma Eastman",
+    "age": null,
+    "college": "Syracuse",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.21",
+    "events": "",
+    "ig": "emmaaeastmann"
+  },
+  {
+    "name": "Skylar Boogerd",
+    "age": 24,
+    "college": "Ole Miss",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:47.83",
+    "events": "",
+    "ig": "skylarboogerd"
+  },
+  {
+    "name": "Grace Forbes",
+    "age": null,
+    "college": "Rice",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:48.07",
+    "events": "",
+    "ig": "graceisace"
+  },
+  {
+    "name": "Florance Uwajeneza",
+    "age": null,
+    "college": "Iowa Central CC / West Texas A&M",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:49.06",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Savannah Roark",
+    "age": null,
+    "college": "Syracuse",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:49.76",
+    "events": "",
+    "ig": "savannah_roark"
+  },
+  {
+    "name": "Brooke Wilson",
+    "age": 20,
+    "college": "Wake Forest",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.07",
+    "events": "",
+    "ig": "brookewilson250"
+  },
+  {
+    "name": "Camila Noe",
+    "age": null,
+    "college": "Portland / Montana State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.17",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Rylie Lusk",
+    "age": null,
+    "college": "Weber State / Syracuse",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:50.97",
+    "events": "",
+    "ig": "rylielusk"
+  },
+  {
+    "name": "Maeve Stiles",
+    "age": 23,
+    "college": "Penn / Washington",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:51.12",
+    "events": "",
+    "ig": "maevestiles"
+  },
+  {
+    "name": "Mackenzie Barnett",
+    "age": null,
+    "college": "Lipscomb",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:52.43",
+    "events": "",
+    "ig": "mackenzie.barnett"
+  },
+  {
+    "name": "Monica Hebner",
+    "age": null,
+    "college": "Duke / UCLA / Texas",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.07",
+    "events": "",
+    "ig": "monicahebner"
+  },
+  {
+    "name": "Madison Trippett",
+    "age": null,
+    "college": "Richmond / West Virginia",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.33",
+    "events": "",
+    "ig": "madisontrippett"
+  },
+  {
+    "name": "Makayla Perez",
+    "age": null,
+    "college": "Michigan State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:54.87",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katja Goldring",
+    "age": 35,
+    "college": "UCLA",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:56.28",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Fiona Smith",
+    "age": null,
+    "college": "St. Benedict",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.28",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Faith Duncan",
+    "age": null,
+    "college": "Wilmington (OH)",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.31",
+    "events": "",
+    "ig": "running_on_faith03"
+  },
+  {
+    "name": "Charlotte Costich",
+    "age": 21,
+    "college": "Penn State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.53",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Megan Roberts",
+    "age": null,
+    "college": "Texas A&M",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:57.74",
+    "events": "",
+    "ig": "megmeg_roberts"
+  },
+  {
+    "name": "Linda Perez",
+    "age": null,
+    "college": "UC Riverside / Lipscomb",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:58.63",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Analee Weaver",
+    "age": null,
+    "college": "BYU / Utah State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.04",
+    "events": "",
+    "ig": "anaweaver8"
+  },
+  {
+    "name": "Ella Gilson",
+    "age": null,
+    "college": "Harvard",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.09",
+    "events": "",
+    "ig": "ella.gilson"
+  },
+  {
+    "name": "Erin McDonald",
+    "age": null,
+    "college": "Michigan State",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.44",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Sophia King",
+    "age": null,
+    "college": "N/A (post-collegiate)",
+    "fk": "",
+    "sc": "",
+    "tenk": "32:59.93",
+    "events": "10K '25",
+    "ig": "sophiemkingg"
+  },
+  {
+    "name": "Ciara O'Shea",
+    "age": 20,
+    "college": "North Carolina",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:00.20",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kristen Garcia",
+    "age": null,
+    "college": "Wisconsin / Gonzaga",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:01.77",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Gionna Quarzo",
+    "age": null,
+    "college": "NC State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:02.14",
+    "events": "",
+    "ig": "gionnaquarzo_"
+  },
+  {
+    "name": "Jesselyn Bries",
+    "age": null,
+    "college": "Northern Arizona",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:03.07",
+    "events": "",
+    "ig": "jesselyn_bries"
+  },
+  {
+    "name": "Lily Tomasula-Martin",
+    "age": null,
+    "college": "Colorado State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:03.32",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Dana Feyen",
+    "age": null,
+    "college": "Iowa State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:04.82",
+    "events": "",
+    "ig": "dana_feyen"
+  },
+  {
+    "name": "McKaylie Caesar",
+    "age": null,
+    "college": "Cal State Fullerton / Utah",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:05.56",
+    "events": "",
+    "ig": "mckayliec3"
+  },
+  {
+    "name": "Ali Bainbridge",
+    "age": null,
+    "college": "Nebraska",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.73",
+    "events": "",
+    "ig": "ali_bainbridge2"
+  },
+  {
+    "name": "Jennifer Sandoval-Guzman",
+    "age": 27,
+    "college": "San Jose State / Azusa Pacific",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.73",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Katrina Spratford-Sterling",
+    "age": 35,
+    "college": "Shippensburg",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:06.80",
+    "events": "",
+    "ig": "katrinaarielle"
+  },
+  {
+    "name": "Sameen Andar",
+    "age": null,
+    "college": "UC Irvine",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:07.48",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Kaylee Bogina",
+    "age": null,
+    "college": "Adams State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:07.88",
+    "events": "",
+    "ig": "kayleebogina"
+  },
+  {
+    "name": "Abby Herring",
+    "age": null,
+    "college": "Marshall",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.07",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "India Jones",
+    "age": null,
+    "college": "Air Force",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.30",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Michaela Reinhart",
+    "age": null,
+    "college": "Duke",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:08.46",
+    "events": "",
+    "ig": "michaela__reinhart"
+  },
+  {
+    "name": "Leah Stephens",
+    "age": null,
+    "college": "NC State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.25",
+    "events": "",
+    "ig": "leah_.stephens"
+  },
+  {
+    "name": "Mariah Howlett",
+    "age": null,
+    "college": "NC State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.69",
+    "events": "",
+    "ig": "mariah_howlett"
+  },
+  {
+    "name": "Madison Offstein",
+    "age": 27,
+    "college": "Princeton",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:09.78",
+    "events": "10K '25",
+    "ig": "maddieoffstein"
+  },
+  {
+    "name": "Ava Nuttall",
+    "age": null,
+    "college": "Miami (OH)",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:10.75",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Allison Kuzma",
+    "age": null,
+    "college": "Hillsdale",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:10.83",
+    "events": "",
+    "ig": "alisonkuzma"
+  },
+  {
+    "name": "Joy Gill",
+    "age": null,
+    "college": "",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:11.05",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mary Caroline Heinen",
+    "age": null,
+    "college": "Columbia / Michigan",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.09",
+    "events": "",
+    "ig": "mheinen918"
+  },
+  {
+    "name": "Jessa Hanson",
+    "age": 27,
+    "college": "Northern Arizona",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.14",
+    "events": "",
+    "ig": "jessa.hanson"
+  },
+  {
+    "name": "Gillian Bushee",
+    "age": null,
+    "college": "Virginia",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:13.83",
+    "events": "",
+    "ig": "gbushee3"
+  },
+  {
+    "name": "Erin Archibeck",
+    "age": null,
+    "college": "Notre Dame / California",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:14.53",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Samantha Stieve",
+    "age": null,
+    "college": "Wisconsin",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:15.30",
+    "events": "",
+    "ig": "stievevw"
+  },
+  {
+    "name": "Daisy Liljegren",
+    "age": 24,
+    "college": "Middlebury / Boston U",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:15.94",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Bridget Lyons",
+    "age": 36,
+    "college": "Georgia",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.07",
+    "events": "",
+    "ig": "b_lyons"
+  },
+  {
+    "name": "Danielle Orie",
+    "age": 27,
+    "college": "Penn / Wisconsin",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.17",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Louise Lounes",
+    "age": 24,
+    "college": "Charlotte / Colorado",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:16.30",
+    "events": "",
+    "ig": "louiseclounes"
+  },
+  {
+    "name": "Collette Lowengrub",
+    "age": null,
+    "college": "UC Riverside",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.02",
+    "events": "",
+    "ig": "collette.lowengrub"
+  },
+  {
+    "name": "Kaitlyn Peale",
+    "age": null,
+    "college": "Michigan",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.16",
+    "events": "",
+    "ig": "kpeale"
+  },
+  {
+    "name": "Gabby Hentemann",
+    "age": null,
+    "college": "Oklahoma State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.48",
+    "events": "",
+    "ig": "gabbyhentemann"
+  },
+  {
+    "name": "Carrie Mack",
+    "age": null,
+    "college": "Missouri State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.50",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Alexa Westley",
+    "age": null,
+    "college": "Wisconsin",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.64",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Olivia Borowiak",
+    "age": null,
+    "college": "DePaul",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:17.73",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Claire Daniels",
+    "age": null,
+    "college": "Penn State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:18.60",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Ava Criniti",
+    "age": null,
+    "college": "Northwestern",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.10",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Briley Bickerstaff",
+    "age": null,
+    "college": "NC State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.10",
+    "events": "",
+    "ig": "eventinglillyy"
+  },
+  {
+    "name": "Grace Connolly",
+    "age": null,
+    "college": "Stanford",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.28",
+    "events": "",
+    "ig": "graceconnolly15"
+  },
+  {
+    "name": "Megan Lacy",
+    "age": null,
+    "college": "Stanford / Boise State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.33",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Christina Geisler",
+    "age": null,
+    "college": "Boise State / Oregon State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.34",
+    "events": "",
+    "ig": "cmgeisler12"
+  },
+  {
+    "name": "Caroline Lyerly",
+    "age": null,
+    "college": "Tennessee",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:19.80",
+    "events": "",
+    "ig": "caroline.running_"
+  },
+  {
+    "name": "Carly Wilkes",
+    "age": null,
+    "college": "Furman",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.08",
+    "events": "",
+    "ig": "_carlywilkes"
+  },
+  {
+    "name": "Allie Kieffer",
+    "age": 38,
+    "college": "Wake Forest",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.11",
+    "events": "",
+    "ig": "kiefferallie"
+  },
+  {
+    "name": "Olivia Foody",
+    "age": null,
+    "college": "UCLA",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.31",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Lucy Ndungu",
+    "age": null,
+    "college": "Cloud County CC / Wichita State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:20.55",
+    "events": "",
+    "ig": "lucy.ndunguu"
+  },
+  {
+    "name": "Kelsey Swenson",
+    "age": null,
+    "college": "Idaho / Georgetown",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.11",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Audrey Dadamio",
+    "age": null,
+    "college": "Stanford / Duke",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.12",
+    "events": "",
+    "ig": "adadamio_"
+  },
+  {
+    "name": "Ava Dobson",
+    "age": null,
+    "college": "North Carolina",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.58",
+    "events": "",
+    "ig": "avadobsonracing"
+  },
+  {
+    "name": "Chloe Hershenow",
+    "age": null,
+    "college": "Tulsa",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:21.75",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Anna Fauske",
+    "age": null,
+    "college": "UC Colorado Springs",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:22.66",
+    "events": "",
+    "ig": "anna.fauske"
+  },
+  {
+    "name": "Angelia Rafter",
+    "age": null,
+    "college": "Central Connecticut",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:22.88",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Lesley Boyd",
+    "age": null,
+    "college": "Chattanooga",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:23.12",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Clara Mayfield",
+    "age": null,
+    "college": "Carleton / Utah",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:23.41",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Mariah Wehrle",
+    "age": null,
+    "college": "Indiana",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.04",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Reagan Doman",
+    "age": null,
+    "college": "BYU / Utah Valley",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.35",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Samantha Saenz",
+    "age": null,
+    "college": "Mt. SAC / Michigan",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:24.48",
+    "events": "",
+    "ig": "samanthaa.saenz"
+  },
+  {
+    "name": "Kylie Anicic",
+    "age": null,
+    "college": "Towson / Edinboro",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.55",
+    "events": "",
+    "ig": "runnergirl_kylie"
+  },
+  {
+    "name": "Megan Hipple",
+    "age": null,
+    "college": "Akron",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.83",
+    "events": "",
+    "ig": "megan_hipple"
+  },
+  {
+    "name": "Adelyn Fairley",
+    "age": null,
+    "college": "Liberty",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:25.95",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Danielle Barrett",
+    "age": null,
+    "college": "UC Davis",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.01",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Rachel Sutliff",
+    "age": null,
+    "college": "Tennessee",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.40",
+    "events": "",
+    "ig": "rachel.sutliff"
+  },
+  {
+    "name": "Kaitlyn Barthell",
+    "age": null,
+    "college": "Colorado",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:26.57",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Maddy Denner",
+    "age": null,
+    "college": "Notre Dame",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:27.06",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Jessica Frydenlund",
+    "age": null,
+    "college": "Gonzaga",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:27.21",
+    "events": "",
+    "ig": "jessica.frydenlund"
+  },
+  {
+    "name": "Amelia Keyser-Gibson",
+    "age": null,
+    "college": "Haverford",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.38",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Leane Willemse",
+    "age": null,
+    "college": "Wisconsin",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.72",
+    "events": "",
+    "ig": "leane_willemse"
+  },
+  {
+    "name": "Daniella Santos",
+    "age": null,
+    "college": "Ohio State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:28.94",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Andrea Kuhn",
+    "age": null,
+    "college": "Ohio State",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:29.49",
+    "events": "",
+    "ig": "andrea_kuhn_101"
+  },
+  {
+    "name": "Naomi Smith",
+    "age": null,
+    "college": "Washington",
+    "fk": "",
+    "sc": "",
+    "tenk": "33:29.85",
+    "events": "",
+    "ig": ""
+  },
+  {
+    "name": "Amelia Paladino",
+    "age": null,
+    "college": "",
+    "fk": "",
+    "sc": "",
+    "tenk": "",
+    "events": "10K '23",
+    "ig": ""
+  },
+  {
+    "name": "Madeline Block",
+    "age": null,
+    "college": "Northern Iowa / Iowa",
+    "fk": "",
+    "sc": "",
+    "tenk": "",
+    "events": "10K '23",
+    "ig": ""
+  },
+  {
+    "name": "Marybeth Chelanga",
+    "age": 36,
+    "college": "Liberty",
+    "fk": "",
+    "sc": "",
+    "tenk": "",
+    "events": "10K '23",
+    "ig": ""
+  }
+]
