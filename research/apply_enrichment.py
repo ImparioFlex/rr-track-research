@@ -28,6 +28,8 @@ for i in range(1, 6):
             continue
         if r.get('age') not in (None, '') and target.get('age') in (None, ''):
             target['age'] = r['age']
+            if r.get('age_est'):
+                target['age_est'] = True
             age_n += 1
         if r.get('college') and not target.get('college'):
             target['college'] = r['college']

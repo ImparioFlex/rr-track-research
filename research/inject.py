@@ -26,6 +26,8 @@ def fmt(a: dict) -> str:
     if a.get('maiden'):
         parts.append(f'maiden:{js_str(a["maiden"])}')
     parts.append(f'age:{js_age(a.get("age"))}')
+    if a.get('age_est'):
+        parts.append('age_est:true')
     parts.append(f'college:{js_str(a.get("college", ""))}')
     parts.append(f'fk:{js_str(a.get("fk", ""))}')
     parts.append(f'sc:{js_str(a.get("sc", ""))}')
