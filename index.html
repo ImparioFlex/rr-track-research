@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Railroad Athletics — U.S. Women's Distance Research</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #f5f5f3; color: #111; line-height: 1.5;
+  }
+  .hero {
+    background: #111; color: #fff;
+    padding: 40px 48px 36px;
+    display: flex; align-items: center; gap: 36px;
+  }
+  .hero-logo {
+    width: 100px; height: auto; flex-shrink: 0;
+    filter: invert(1);
+    mix-blend-mode: screen;
+  }
+  .hero-text { flex: 1; }
+  .hero-brand {
+    font-size: 13px; font-weight: 700; letter-spacing: 3px;
+    text-transform: uppercase; color: #888; margin-bottom: 6px;
+  }
+  .hero h1 {
+    font-size: 48px; font-weight: 900; letter-spacing: -1.5px;
+    line-height: 1.05; margin-bottom: 10px; text-transform: uppercase;
+  }
+  .hero h1 span { color: #c8553d; }
+  .subtitle {
+    font-size: 16px; color: #999; font-weight: 400; line-height: 1.6;
+    max-width: 680px;
+  }
+  .subtitle strong { color: #ccc; font-weight: 600; }
+  .controls {
+    display: flex; gap: 14px; align-items: center; flex-wrap: wrap;
+    padding: 16px 48px; background: #fff; border-bottom: 1px solid #ddd;
+    position: sticky; top: 0; z-index: 10;
+  }
+  .controls input {
+    padding: 10px 16px; border: 2px solid #ddd; border-radius: 6px;
+    font-size: 15px; font-family: inherit; width: 300px; outline: none;
+    font-weight: 500; background: #fafafa;
+  }
+  .controls input:focus { border-color: #111; background: #fff; }
+  .controls input::placeholder { color: #aaa; }
+  .controls .count {
+    font-size: 14px; color: #555; font-weight: 700; letter-spacing: .5px;
+    text-transform: uppercase; margin-left: auto;
+  }
+  .controls select {
+    padding: 10px 14px; border: 2px solid #ddd; border-radius: 6px;
+    font-size: 15px; font-family: inherit; font-weight: 500;
+    background: #fafafa; cursor: pointer;
+  }
+  .controls select:focus { border-color: #111; }
+  .wrap { padding: 0; overflow-x: auto; }
+  table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 15px; background: #fff; }
+  thead { z-index: 5; }
+  th {
+    background: #1a1a1a; color: #fff; padding: 12px 14px;
+    text-align: left; font-weight: 800; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 1.5px; cursor: pointer; user-select: none; white-space: nowrap;
+  }
+  th:hover { background: #333; }
+  th .arrow { font-size: 9px; margin-left: 4px; opacity: .4; }
+  th.sorted .arrow { opacity: 1; color: #c8553d; }
+  th.no-sort { cursor: default; width: 40px; text-align: center; }
+  th.no-sort:hover { background: #1a1a1a; }
+  td {
+    padding: 11px 14px; border-bottom: 1px solid #eaeaea;
+    vertical-align: middle; font-weight: 500;
+  }
+  tr:hover td { background: #f5f5f0; }
+  tr:nth-child(even) td { background: #fafaf8; }
+  tr:nth-child(even):hover td { background: #f0f0eb; }
+  tr.starred td { background: #fdf6f4; }
+  tr.starred:nth-child(even) td { background: #faf0ed; }
+  tr.starred:hover td { background: #f5e8e3; }
+  .time {
+    font-variant-numeric: tabular-nums;
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+    font-size: 14px; font-weight: 600; color: #111;
+  }
+  .time.empty { color: #d0d0d0; font-weight: 400; }
+  .name { font-weight: 700; font-size: 15px; white-space: nowrap; color: #111; }
+  .maiden { font-weight: 400; color: #999; font-size: 12px; margin-left: 4px; }
+  .college { font-size: 14px; color: #444; }
+  .age { text-align: center; font-weight: 700; font-size: 15px; }
+  .rank {
+    text-align: center; font-weight: 800; font-size: 13px;
+    color: #bbb; width: 36px;
+  }
+  .star-cell {
+    text-align: center; width: 36px; font-size: 18px;
+    color: #ddd; cursor: pointer; user-select: none;
+    transition: color .15s;
+  }
+  .star-cell:hover { color: #c8553d; }
+  .star-cell.active { color: #c8553d; }
+  .notes-cell {
+    text-align: center; width: 40px; cursor: pointer;
+    user-select: none;
+  }
+  .notes-cell svg { width: 18px; height: 18px; vertical-align: middle; }
+  .notes-cell .note-icon { color: #d0d0d0; transition: color .15s; }
+  .notes-cell:hover .note-icon { color: #c8553d; }
+  .notes-cell.has-note .note-icon { color: #c8553d; }
+  .events { font-size: 12px; color: #444; line-height: 1.8; }
+  .events span {
+    display: inline-block; border-radius: 4px;
+    padding: 2px 7px; margin: 1px 2px; white-space: nowrap;
+    font-weight: 600; font-size: 11px; letter-spacing: .3px;
+  }
+  .events span.sc { background: #fef3c7; color: #92400e; }
+  .events span.tenk { background: #dbeafe; color: #1e40af; }
+  .events span.fivek { background: #dcfce7; color: #166534; }
+  .ig { white-space: nowrap; font-size: 13px; }
+  .ig a {
+    color: #c8553d; text-decoration: none; font-weight: 600;
+  }
+  .ig a:hover { text-decoration: underline; }
+  .ig.empty { color: #d0d0d0; font-weight: 400; }
+
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,.45);
+    z-index: 100; display: flex; align-items: center; justify-content: center;
+    opacity: 0; pointer-events: none; transition: opacity .2s;
+  }
+  .modal-overlay.open { opacity: 1; pointer-events: auto; }
+  .modal {
+    background: #fff; border-radius: 12px; padding: 28px 32px;
+    width: 480px; max-width: 90vw; box-shadow: 0 20px 60px rgba(0,0,0,.3);
+    transform: translateY(10px); transition: transform .2s;
+  }
+  .modal-overlay.open .modal { transform: translateY(0); }
+  .modal h3 {
+    font-size: 18px; font-weight: 800; margin-bottom: 4px; color: #111;
+  }
+  .modal .modal-sub {
+    font-size: 13px; color: #888; margin-bottom: 16px; font-weight: 500;
+  }
+  .modal textarea {
+    width: 100%; height: 140px; border: 2px solid #ddd; border-radius: 8px;
+    padding: 12px 14px; font-family: inherit; font-size: 14px; resize: vertical;
+    outline: none; font-weight: 500; line-height: 1.5;
+  }
+  .modal textarea:focus { border-color: #111; }
+  .modal-actions {
+    display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;
+  }
+  .modal-actions button {
+    padding: 8px 20px; border: none; border-radius: 6px; font-family: inherit;
+    font-size: 14px; font-weight: 700; cursor: pointer; transition: background .15s;
+  }
+  .modal-actions .save-btn { background: #111; color: #fff; }
+  .modal-actions .save-btn:hover { background: #333; }
+  .modal-actions .cancel-btn { background: #f0f0f0; color: #555; }
+  .modal-actions .cancel-btn:hover { background: #ddd; }
+  .modal-actions .clear-btn { background: transparent; color: #c8553d; margin-right: auto; }
+  .modal-actions .clear-btn:hover { text-decoration: underline; }
+
+  .note {
+    font-size: 13px; color: #888; padding: 28px 48px; line-height: 1.8;
+    border-top: 1px solid #ddd; background: #fff;
+  }
+  .note strong { color: #555; }
+  @media (max-width: 1000px) {
+    .hero { padding: 28px 20px 24px; gap: 20px; }
+    .hero h1 { font-size: 32px; }
+    .hero-logo { width: 64px; }
+    .controls { padding: 12px 20px; }
+    .wrap { padding: 0; }
+    .note { padding: 20px; }
+    table { font-size: 13px; }
+    td, th { padding: 8px 8px; }
+    .controls input { width: 180px; font-size: 14px; }
+    .modal { padding: 20px 24px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <img src="rr-logo.png" alt="Railroad Athletics" class="hero-logo">
+  <div class="hero-text">
+    <div class="hero-brand">Coach Hayden Cox &middot; Railroad Athletics</div>
+    <h1>U.S. Women's <span>Distance</span></h1>
+    <p class="subtitle">Sub-15:45 5K &middot; Sub-10:15 Steeple &middot; Sub-33:30 10K<br>
+    Competed at <strong>USATF Outdoor Championships / Olympic Trials</strong> 2022&ndash;2025</p>
+  </div>
+</div>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search by name, college, event, IG...">
+  <select id="eventFilter">
+    <option value="">All events</option>
+    <option value="starred">&#9733; Starred</option>
+    <option value="5K">5K at USAs</option>
+    <option value="SC">Steeple at USAs</option>
+    <option value="10K">10K at USAs</option>
+  </select>
+  <span class="count" id="count"></span>
+</div>
+
+<div class="wrap">
+<table id="tbl">
+<thead>
+<tr>
+  <th class="no-sort">&#9733;</th>
+  <th data-col="1" data-type="num"># <span class="arrow">&#9650;</span></th>
+  <th data-col="2" data-type="str">Name <span class="arrow">&#9650;</span></th>
+  <th data-col="3" data-type="num">Age <span class="arrow">&#9650;</span></th>
+  <th data-col="4" data-type="str">College <span class="arrow">&#9650;</span></th>
+  <th data-col="5" data-type="time">5K PB <span class="arrow">&#9650;</span></th>
+  <th data-col="6" data-type="time">SC PB <span class="arrow">&#9650;</span></th>
+  <th data-col="7" data-type="time">10K PB <span class="arrow">&#9650;</span></th>
+  <th data-col="8" data-type="str">USAs Events <span class="arrow">&#9650;</span></th>
+  <th data-col="9" data-type="str">Instagram <span class="arrow">&#9650;</span></th>
+  <th class="no-sort">Notes</th>
+</tr>
+</thead>
+<tbody id="tbody">
+</tbody>
+</table>
+</div>
+
+<div class="note">
+  <strong>Data sources:</strong> World Athletics top lists (2022&ndash;2026), USATF championship results, TFRRS college records, Instagram. Ages as of April 2026.<br>
+  <strong>SC</strong> = 3000m Steeplechase. PBs from WA annual top lists (2022&ndash;2026). Athletes qualify with sub-15:45 5K, sub-10:15 SC, or sub-33:30 10K + USAs appearance.<br>
+  <strong>Tip:</strong> Click column headers to sort. &#9733; to star athletes. Click the note icon to add private notes. Data saves in your browser.
+</div>
+
+<div class="modal-overlay" id="notesModal">
+  <div class="modal">
+    <h3 id="modalName"></h3>
+    <div class="modal-sub">Private notes &mdash; saved in your browser</div>
+    <textarea id="modalText" placeholder="Add notes about this athlete..."></textarea>
+    <div class="modal-actions">
+      <button class="clear-btn" id="modalClear">Clear</button>
+      <button class="cancel-btn" id="modalCancel">Cancel</button>
+      <button class="save-btn" id="modalSave">Save</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const DATA = [
+  {name:"Alicia Monson",age:27,college:"Wisconsin",fk:"14:19.45",sc:"",tenk:"30:03.82",events:"5K '23 '25, 10K '22 '23 '24",ig:"monsonalicia"},
+  {name:"Josette Andrews",maiden:"née Norris",age:30,college:"Georgetown",fk:"14:25.37",sc:"",tenk:"",events:"5K '22 '23 '24 '25",ig:"josettenorris"},
+  {name:"Elle St. Pierre",maiden:"née Purrier",age:31,college:"New Hampshire",fk:"14:34.12",sc:"",tenk:"",events:"5K '22 '24",ig:"elleruns_4_her_life"},
+  {name:"Weini Kelati",age:29,college:"New Mexico",fk:"14:35.43",sc:"",tenk:"30:33.82",events:"5K '22 '23 '25, 10K '22 '23 '24 '25",ig:"weini_kelati"},
+  {name:"Karissa Schweizer",age:29,college:"Missouri",fk:"14:36.88",sc:"",tenk:"30:18.05",events:"5K '22 '24 '25, 10K '22 '23 '24 '25",ig:"karissaschweiz4"},
+  {name:"Elise Cranny",age:29,college:"Stanford",fk:"14:40.36",sc:"",tenk:"30:14.66",events:"5K '22 '23 '24 '25, 10K '23 '25",ig:"elise.cranny"},
+  {name:"Shelby Houlihan",age:33,college:"Arizona State",fk:"14:45.29",sc:"",tenk:"30:50.10",events:"5K '25",ig:"shelbo800"},
+  {name:"Elly Henes",age:27,college:"NC State",fk:"14:47.15",sc:"",tenk:"30:48.26",events:"5K '22 '23 '25, 10K '24 '25",ig:"_ellyphant_"},
+  {name:"Whittni Morgan",maiden:"née Orton",age:28,college:"BYU",fk:"14:48.41",sc:"",tenk:"",events:"5K '22 '23 '24",ig:"whittniomorgan_"},
+  {name:"Courtney Frerichs",age:33,college:"UMKC / New Mexico",fk:"14:48.75",sc:"9:10.59",tenk:"31:23.13",events:"SC '22",ig:"courtneyfrerichs"},
+  {name:"Bailey Hertenstein",age:26,college:"Indiana",fk:"14:48.91",sc:"",tenk:"31:53.26",events:"5K '24 '25",ig:"baileyh_"},
+  {name:"Courtney Wayment",age:27,college:"BYU",fk:"14:49.78",sc:"9:06.50",tenk:"31:43.17",events:"SC '22 '23 '24 '25",ig:"courtsasport20"},
+  {name:"Taylor Roe",age:25,college:"Oklahoma State",fk:"14:49.91",sc:"",tenk:"30:58.66",events:"5K '24 '25, 10K '25",ig:"taylor.roe_"},
+  {name:"Ella Donaghu",age:28,college:"Stanford",fk:"14:50.89",sc:"",tenk:"31:32.93",events:"5K '22 '24 '25",ig:"elladonaghu"},
+  {name:"Emily Infeld",age:36,college:"Georgetown",fk:"14:50.90",sc:"",tenk:"30:59.38",events:"5K '22 '23 '24 '25, 10K '22 '25",ig:"emilyinfeld"},
+  {name:"Parker Valby",age:23,college:"Florida",fk:"14:51.44",sc:"",tenk:"30:50.43",events:"5K '24, 10K '24",ig:"parkervalby"},
+  {name:"Natosha Rogers",age:34,college:"Texas A&M",fk:"14:52.21",sc:"",tenk:"30:48.69",events:"5K '22 '23 '24, 10K '22 '23 '24",ig:"natosha_rogers"},
+  {name:"Lexy Halladay",maiden:"Halladay-Lowry",age:24,college:"BYU",fk:"14:52.93",sc:"9:08.68",tenk:"",events:"SC '23 '24 '25",ig:"lexy.halladay.lowry"},
+  {name:"Grace Hartman",age:22,college:"NC State",fk:"14:58.11",sc:"",tenk:"31:20.60",events:"5K '24",ig:"grace.hartman7"},
+  {name:"Emily Venters",age:26,college:"Utah",fk:"14:58.77",sc:"",tenk:"31:48.35",events:"5K '25, 10K '23",ig:"ventersemily"},
+  {name:"Annie Rodenfels",age:29,college:"Centre College",fk:"15:00.64",sc:"9:22.66",tenk:"32:33.73",events:"5K '23 '25, SC '22 '24",ig:"andrearodenfels"},
+  {name:"Allie Buchalski",age:31,college:"Furman",fk:"15:00.79",sc:"",tenk:"31:29.06",events:"5K '22 '23 '24 '25",ig:"abuchalski"},
+  {name:"Fiona O'Keeffe",age:27,college:"Stanford",fk:"15:01.34",sc:"",tenk:"30:52.77",events:"5K '22",ig:"fiona_okeeffe"},
+  {name:"Amanda Vestri",age:26,college:"Syracuse",fk:"15:01.22",sc:"",tenk:"31:10.53",events:"10K '23 '24 '25",ig:"a_vestri"},
+  {name:"Katelyn Tuohy",age:24,college:"NC State",fk:"15:03.12",sc:"",tenk:"32:56.75",events:"5K '22 '23 '24 '25",ig:"katelyntuohy"},
+  {name:"Taylor Werner",age:27,college:"Arkansas",fk:"15:03.13",sc:"",tenk:"32:47.53",events:"5K '23",ig:"tdub16werner"},
+  {name:"Abby Nichols",age:29,college:"Colorado",fk:"15:03.14",sc:"",tenk:"31:52.94",events:"5K '22 '23 '24",ig:"abby_nichols131"},
+  {name:"Rachel Smith",maiden:"née Schneider",age:34,college:"Georgetown",fk:"15:03.24",sc:"",tenk:"31:04.02",events:"5K '24",ig:"rachschneid18"},
+  {name:"Vanessa Fraser",age:30,college:"Stanford",fk:"15:05.04",sc:"",tenk:"31:52.11",events:"5K '22, 10K '23 '25",ig:"nessafraser"},
+  {name:"Lucy Jenks",maiden:"née Nodler",age:null,college:"Stanford / Georgetown",fk:"15:05.29",sc:"",tenk:"",events:"5K '25",ig:"lucyjenks_"},
+  {name:"Chloe Scrimgeour",age:22,college:"Georgetown",fk:"15:05.40",sc:"",tenk:"31:41.68",events:"5K '24",ig:""},
+  {name:"Katie Camarena",age:28,college:"UCSB / Portland State",fk:"15:05.44",sc:"",tenk:"31:45.79",events:"5K '23 '24 '25, 10K '24 '25",ig:"katieecamarena"},
+  {name:"Bethany Hasz",age:28,college:"Minnesota",fk:"15:05.80",sc:"",tenk:"32:46.83",events:"5K '23 '24",ig:"bethanyhasz"},
+  {name:"Kayley DeLay",age:26,college:"Yale",fk:"15:05.96",sc:"9:25.08",tenk:"",events:"5K '25, SC '22 '23 '24",ig:"kayleyloopy"},
+  {name:"Amaris Tyynismaa",age:25,college:"Alabama / NC State",fk:"15:06.69",sc:"",tenk:"32:52.92",events:"5K '25",ig:"amaris_tyynismaa"},
+  {name:"Sophia Kennedy",age:21,college:"Stanford",fk:"15:07.77",sc:"",tenk:"",events:"5K '25",ig:"sophiakennedy11"},
+  {name:"Emily Lipari",age:33,college:"Villanova",fk:"15:07.22",sc:"",tenk:"31:19.72",events:"5K '22 '23, 10K '22 '24",ig:"classicemilyl"},
+  {name:"Elise Stearns",age:25,college:"Northern Arizona",fk:"15:08.07",sc:"",tenk:"32:33.18",events:"5K '25",ig:"elisestearns"},
+  {name:"Katie Wasserman",age:28,college:"Columbia / Notre Dame",fk:"15:08.72",sc:"",tenk:"",events:"5K '23 '24",ig:"katie_wass"},
+  {name:"Sarah Lancaster",age:38,college:"N/A (post-collegiate)",fk:"15:09.59",sc:"",tenk:"31:21.75",events:"5K '22, 10K '22",ig:"catscratchasian"},
+  {name:"Jessica McClain",maiden:"née Tonn",age:34,college:"Stanford",fk:"15:09.50",sc:"",tenk:"30:59.71",events:"10K '24 '25",ig:"jesstonn"},
+  {name:"Katie Izzo",age:29,college:"Cal Poly / Arkansas",fk:"15:10.75",sc:"",tenk:"32:22.47",events:"5K '22 '23, 10K '24 '25",ig:"katieizzo"},
+  {name:"Abbey Cooper",maiden:"née D'Agostino",age:33,college:"Dartmouth",fk:"15:11.15",sc:"",tenk:"",events:"5K '24",ig:"abbey_dags"},
+  {name:"Ednah Kurgat",age:34,college:"Liberty / New Mexico",fk:"15:11.30",sc:"",tenk:"31:12.10",events:"5K '22 '23, 10K '22 '23",ig:"ednah_kurgat"},
+  {name:"Gabrielle Jennings",age:27,college:"Furman",fk:"15:13.50",sc:"9:06.61",tenk:"",events:"SC '22 '23 '24 '25",ig:"the__gabs"},
+  {name:"Olivia Markezich",age:25,college:"Notre Dame",fk:"15:14.42",sc:"9:14.26",tenk:"",events:"SC '23 '24 '25",ig:"oliviamarkezich"},
+  {name:"Maggie Montoya",age:30,college:"Baylor",fk:"15:15.52",sc:"",tenk:"31:54.34",events:"5K '24, 10K '24",ig:"maggie_montoya"},
+  {name:"Kaylee Mitchell",age:26,college:"Oregon State",fk:"15:15.80",sc:"9:08.66",tenk:"",events:"SC '23 '24 '25",ig:"kaylee_mitchell_"},
+  {name:"Eleanor Fulton",age:32,college:"Washington",fk:"15:15.82",sc:"",tenk:"",events:"5K '22",ig:"eleanor_fulton"},
+  {name:"Paige Stoner",age:30,college:"Syracuse",fk:"15:16.21",sc:"",tenk:"31:22.55",events:"10K '22",ig:"paigestoner11"},
+  {name:"Lauren Gregory",age:26,college:"Arkansas",fk:"15:17.99",sc:"",tenk:"32:34.21",events:"5K '24",ig:"lgeeeeezy"},
+  {name:"Hannah Steelman",age:26,college:"Wofford / NC State",fk:"15:19.69",sc:"",tenk:"33:28.85",events:"5K '23 '24",ig:"hannahsteelman_"},
+  {name:"Erika Kemp",age:31,college:"NC State",fk:"15:20.29",sc:"",tenk:"31:28.69",events:"10K '24",ig:"imtinyrik"},
+  {name:"Molly Born",age:26,college:"Oklahoma State",fk:"15:20.89",sc:"",tenk:"32:42.93",events:"5K '24",ig:"born_molly"},
+  {name:"Kellyn Taylor",maiden:"née Johnson",age:39,college:"Wichita State",fk:"15:21.56",sc:"",tenk:"32:12.02",events:"10K '24",ig:"kellyn_taylor"},
+  {name:"Molly Grabill",age:33,college:"Oregon",fk:"15:22.97",sc:"",tenk:"31:49.01",events:"10K '22",ig:"mollyjgrabill"},
+  {name:"Katrina Coogan",age:32,college:"Georgetown",fk:"15:24.83",sc:"",tenk:"31:37.85",events:"5K '22, 10K '24 '25",ig:"coogs93"},
+  {name:"Madie Boreman",age:27,college:"Colorado",fk:"15:24.89",sc:"9:21.98",tenk:"",events:"SC '22 '23 '24",ig:"boredmadie"},
+  {name:"Jennifer Randall",age:34,college:"Ithaca College",fk:"15:25.13",sc:"",tenk:"",events:"5K '24",ig:"jenniferr.randall"},
+  {name:"Elizabeth Leachman",age:18,college:"Stanford (incoming)",fk:"15:25.27",sc:"",tenk:"",events:"5K '24",ig:""},
+  {name:"Susanna Sullivan",age:35,college:"Notre Dame",fk:"15:25.94",sc:"",tenk:"31:55.80",events:"10K '22 '24",ig:"susannasullivan4"},
+  {name:"Jenna Magness",age:null,college:"Michigan State",fk:"15:26.21",sc:"",tenk:"32:59.96",events:"5K '22",ig:"jennamagness"},
+  {name:"Allie Ostrander",age:29,college:"Boise State",fk:"15:26.50",sc:"9:21.82",tenk:"",events:"5K '22, SC '24 '25",ig:"allie_ostrander"},
+  {name:"Savannah Shaw",age:26,college:"NC State",fk:"15:28.10",sc:"",tenk:"32:41.69",events:"5K '24",ig:"alldayrunning"},
+  {name:"Logan Jolly",maiden:"née Morris",age:27,college:"Clemson / Arkansas",fk:"15:29.08",sc:"9:26.23",tenk:"",events:"SC '22 '23 '24 '25",ig:"logan.jolly"},
+  {name:"Maddie Alm",age:33,college:"Colorado",fk:"15:29.28",sc:"",tenk:"32:01.28",events:"5K '23, 10K '22",ig:"madsalm12"},
+  {name:"Carrie Verdon",age:32,college:"Colorado",fk:"15:29.47",sc:"",tenk:"31:37.26",events:"10K '22 '24",ig:"carrie.ellwoody"},
+  {name:"Marielle Hall",age:34,college:"Texas",fk:"15:29.80",sc:"",tenk:"31:58.88",events:"10K '22",ig:"mariellehalll"},
+  {name:"Claire Green",age:29,college:"Arizona",fk:"15:30.46",sc:"",tenk:"31:49.29",events:"5K '24, 10K '25",ig:"claireggreen"},
+  {name:"Olivia Pratt",age:32,college:"Butler",fk:"15:32.16",sc:"",tenk:"31:57.01",events:"10K '22 '24",ig:"olivia.g.pratt"},
+  {name:"Carmen Graves",age:35,college:"Roanoke College",fk:"15:32.41",sc:"9:32.58",tenk:"",events:"SC '22 '23",ig:"carmenpelar"},
+  {name:"Val Constien",age:30,college:"Colorado",fk:"15:32.83",sc:"9:03.22",tenk:"",events:"SC '22 '24 '25",ig:"valerieconstien"},
+  {name:"Angelina Ellis",age:27,college:"Butler",fk:"15:33.83",sc:"9:22.03",tenk:"",events:"SC '24 '25",ig:"angelina.ellis"},
+  {name:"Anne-Marie Blaney",age:32,college:"UCF",fk:"15:34.25",sc:"",tenk:"32:02.34",events:"10K '24",ig:"amblaney"},
+  {name:"Stephanie Bruce",maiden:"née Rothstein",age:42,college:"UC Santa Barbara",fk:"15:36.26",sc:"",tenk:"31:39.39",events:"10K '22 '24",ig:"stephrothstein"},
+  {name:"Cailie Logue Hughes",age:27,college:"Iowa State",fk:"15:36.40",sc:"",tenk:"32:21.54",events:"10K '25",ig:"cailie_logue"},
+  {name:"Makena Morley",age:29,college:"Colorado",fk:"15:36.59",sc:"",tenk:"31:59.44",events:"10K '22",ig:"makena_morley"},
+  {name:"Kassie Parker",age:26,college:"Loras College",fk:"15:37.00",sc:"",tenk:"32:36.22",events:"10K '23",ig:"kassie.parker19"},
+  {name:"Amy Davis-Green",maiden:"née Davis",age:29,college:"Wisconsin",fk:"15:37.09",sc:"",tenk:"32:05.78",events:"10K '24",ig:"ames_2153"},
+  {name:"Sophie Novak",age:23,college:"Notre Dame",fk:"15:38.57",sc:"9:23.04",tenk:"",events:"SC '24",ig:"sophieee.novak"},
+  {name:"Calli Doan",age:25,college:"Liberty",fk:"15:39.06",sc:"9:44.37",tenk:"",events:"SC '24 '25",ig:"calli.m.doan"},
+  {name:"Anna Oeser",age:26,college:"Boston College",fk:"15:40.34",sc:"",tenk:"33:14.06",events:"5K '23",ig:"annaa.oeser"},
+  {name:"Angelina Napoleon",age:21,college:"NC State",fk:"15:40.45",sc:"9:10.72",tenk:"",events:"SC '25",ig:"angelinanapoleon"},
+  {name:"Jessica Gockley-Day",maiden:"née Gockley",age:28,college:"Grand Valley State",fk:"15:43.02",sc:"",tenk:"32:16.98",events:"10K '24 '25",ig:"jessica.j.day"},
+  {name:"Gracie Hyde",age:26,college:"Arkansas",fk:"15:43.34",sc:"9:24.62",tenk:"",events:"SC '24 '25",ig:"graciehyde_"},
+  {name:"Katie Rainsberger",age:27,college:"Oregon / Washington",fk:"15:44.13",sc:"9:29.77",tenk:"",events:"SC '22",ig:"katierains_17"},
+  {name:"Emma Coburn",age:35,college:"Colorado",fk:"",sc:"9:07.93",tenk:"",events:"SC '22 '23",ig:"emmacoburn"},
+  {name:"Marisa Howard",age:null,college:"Boise State",fk:"",sc:"9:07.14",tenk:"",events:"SC '23 '24",ig:"marisavhoward"},
+  {name:"Kristlin Gear",age:null,college:"Furman / Arkansas",fk:"",sc:"9:11.64",tenk:"",events:"SC '23 '24 '25",ig:"krissygear13"},
+  {name:"Colleen Quigley",age:33,college:"Florida State",fk:"",sc:"9:32.48",tenk:"",events:"SC '22",ig:"steeple_squigs"},
+  {name:"Taylor Lovell",age:null,college:"BYU",fk:"",sc:"9:26.99",tenk:"",events:"SC '24",ig:"taylor12lovell"},
+  {name:"Emma Gee",age:null,college:"BYU / Temple",fk:"",sc:"9:33.08",tenk:"",events:"SC '24 '25",ig:""},
+  {name:"Janette Schraft",age:null,college:"Iowa State",fk:"",sc:"9:30.38",tenk:"",events:"SC '24 '25",ig:""},
+  {name:"Colett Rampf",age:null,college:"Saint Leo",fk:"",sc:"9:38.01",tenk:"",events:"SC '24 '25",ig:""},
+  {name:"Karrie Baloga",age:null,college:"Colorado / NAU / BYU",fk:"",sc:"9:37.93",tenk:"",events:"SC '24",ig:""},
+  {name:"Maggie Liebich",age:null,college:"Princeton / Washington",fk:"",sc:"9:37.40",tenk:"",events:"SC '25",ig:""},
+  {name:"Abby Kohut-Jackson",age:null,college:"Minnesota",fk:"",sc:"9:47.65",tenk:"",events:"SC '22",ig:""},
+  {name:"Keira D'Amato",age:41,college:"American University",fk:"",sc:"",tenk:"31:05.31",events:"10K '24 '25",ig:"keiradamato"},
+  {name:"Emily Durgin",age:null,college:"UConn",fk:"",sc:"",tenk:"31:33.83",events:"10K '22",ig:"em_durgin"},
+  {name:"Millie Paladino",age:null,college:"West Virginia / Providence",fk:"",sc:"",tenk:"31:19.92",events:"10K '23",ig:"millieformiles"},
+  {name:"Caroline Sang",age:null,college:"UNC Charlotte",fk:"",sc:"",tenk:"31:55.61",events:"10K '22",ig:""},
+  {name:"Jeralyn Poe",age:null,college:"Michigan State / NAU",fk:"",sc:"",tenk:"31:59.49",events:"10K '22",ig:""},
+];
+
+let stars = {};
+let notes = {};
+try { stars = JSON.parse(localStorage.getItem('rr-stars')) || {}; } catch(e) {}
+try { notes = JSON.parse(localStorage.getItem('rr-notes')) || {}; } catch(e) {}
+function saveStars() { localStorage.setItem('rr-stars', JSON.stringify(stars)); }
+function saveNotes() { localStorage.setItem('rr-notes', JSON.stringify(notes)); }
+
+const tbody = document.getElementById('tbody');
+const searchEl = document.getElementById('search');
+const countEl = document.getElementById('count');
+const filterEl = document.getElementById('eventFilter');
+
+const clean = DATA.filter(d => !d.skip);
+
+function timeToSec(t) {
+  if (!t) return 9999;
+  const [m, s] = t.split(':');
+  return parseFloat(m) * 60 + parseFloat(s);
+}
+
+const noteIconSvg = '<svg class="note-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>';
+
+function renderRows(data) {
+  tbody.innerHTML = '';
+  data.forEach((d, i) => {
+    const tr = document.createElement('tr');
+    const isStarred = !!stars[d.name];
+    if (isStarred) tr.classList.add('starred');
+
+    const maiden = d.maiden ? ` <span class="maiden">(${d.maiden})</span>` : '';
+    const ageStr = d.age !== null && d.age !== undefined ? d.age : '—';
+
+    const evParts = d.events.split(', ').map(e => {
+      let cls = 'fivek';
+      if (e.startsWith('SC')) cls = 'sc';
+      if (e.startsWith('10K')) cls = 'tenk';
+      return `<span class="${cls}">${e}</span>`;
+    }).join(' ');
+
+    const igCell = d.ig
+      ? `<a href="https://instagram.com/${d.ig}" target="_blank" rel="noopener">@${d.ig}</a>`
+      : '—';
+
+    const hasNote = !!notes[d.name];
+
+    tr.innerHTML = `
+      <td class="star-cell${isStarred ? ' active' : ''}" data-name="${d.name}">★</td>
+      <td class="rank">${i + 1}</td>
+      <td class="name">${d.name}${maiden}</td>
+      <td class="age">${ageStr}</td>
+      <td class="college">${d.college || '—'}</td>
+      <td class="time${d.fk ? '' : ' empty'}">${d.fk || '—'}</td>
+      <td class="time${d.sc ? '' : ' empty'}">${d.sc || '—'}</td>
+      <td class="time${d.tenk ? '' : ' empty'}">${d.tenk || '—'}</td>
+      <td class="events">${evParts}</td>
+      <td class="ig${d.ig ? '' : ' empty'}">${igCell}</td>
+      <td class="notes-cell${hasNote ? ' has-note' : ''}" data-name="${d.name}">${noteIconSvg}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+  countEl.textContent = `${data.length} athletes`;
+}
+
+tbody.addEventListener('click', (e) => {
+  const starCell = e.target.closest('.star-cell');
+  if (starCell) {
+    const name = starCell.dataset.name;
+    if (stars[name]) { delete stars[name]; } else { stars[name] = true; }
+    saveStars();
+    applyFilters();
+    return;
+  }
+  const notesCell = e.target.closest('.notes-cell');
+  if (notesCell) {
+    openNotes(notesCell.dataset.name);
+  }
+});
+
+const modalOverlay = document.getElementById('notesModal');
+const modalName = document.getElementById('modalName');
+const modalText = document.getElementById('modalText');
+let currentNoteName = '';
+
+function openNotes(name) {
+  currentNoteName = name;
+  modalName.textContent = name;
+  modalText.value = notes[name] || '';
+  modalOverlay.classList.add('open');
+  setTimeout(() => modalText.focus(), 100);
+}
+
+function closeNotes() {
+  modalOverlay.classList.remove('open');
+  currentNoteName = '';
+}
+
+document.getElementById('modalSave').addEventListener('click', () => {
+  if (currentNoteName) {
+    const val = modalText.value.trim();
+    if (val) { notes[currentNoteName] = val; } else { delete notes[currentNoteName]; }
+    saveNotes();
+    applyFilters();
+  }
+  closeNotes();
+});
+
+document.getElementById('modalCancel').addEventListener('click', closeNotes);
+
+document.getElementById('modalClear').addEventListener('click', () => {
+  modalText.value = '';
+});
+
+modalOverlay.addEventListener('click', (e) => {
+  if (e.target === modalOverlay) closeNotes();
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && modalOverlay.classList.contains('open')) closeNotes();
+});
+
+function applyFilters() {
+  const q = searchEl.value.toLowerCase();
+  const ev = filterEl.value;
+  let filtered = clean.filter(d => {
+    const text = `${d.name} ${d.maiden||''} ${d.college||''} ${d.events} @${d.ig||''}`.toLowerCase();
+    if (q && !text.includes(q)) return false;
+    if (ev === 'starred') { if (!stars[d.name]) return false; }
+    else if (ev && !d.events.includes(ev)) return false;
+    return true;
+  });
+  renderRows(filtered);
+}
+
+searchEl.addEventListener('input', applyFilters);
+filterEl.addEventListener('change', applyFilters);
+
+let sortCol = 5, sortAsc = true;
+
+document.querySelectorAll('th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = parseInt(th.dataset.col);
+    if (sortCol === col) { sortAsc = !sortAsc; } else { sortCol = col; sortAsc = true; }
+
+    document.querySelectorAll('th[data-col]').forEach(h => h.classList.remove('sorted'));
+    th.classList.add('sorted');
+    th.querySelector('.arrow').innerHTML = sortAsc ? '&#9650;' : '&#9660;';
+
+    clean.sort((a, b) => {
+      let va, vb;
+      if (col === 1) return 0;
+      if (col === 2) { va = a.name; vb = b.name; }
+      if (col === 3) { va = a.age || 999; vb = b.age || 999; }
+      if (col === 4) { va = a.college || 'zzz'; vb = b.college || 'zzz'; }
+      if (col === 5) { va = timeToSec(a.fk); vb = timeToSec(b.fk); }
+      if (col === 6) { va = timeToSec(a.sc); vb = timeToSec(b.sc); }
+      if (col === 7) { va = timeToSec(a.tenk); vb = timeToSec(b.tenk); }
+      if (col === 8) { va = a.events; vb = b.events; }
+      if (col === 9) { va = a.ig || 'zzz'; vb = b.ig || 'zzz'; }
+
+      if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+      return sortAsc ? va - vb : vb - va;
+    });
+    applyFilters();
+  });
+});
+
+renderRows(clean);
+
+</script>
+</body>
+</html>
